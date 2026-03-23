@@ -1,560 +1,560 @@
 [
   {
     "id": "img_001",
-    "name": "Ultra_realistic_Lord_Shiva_blue_skin_glowing_third_eye_trident_Himalaya_background_cosmic_aura_cinematic_lighting_4K",
+    "name": "Shiva",
     "prompt": "Ultra realistic Lord Shiva, blue skin, glowing third eye, trident, Himalaya background, cosmic aura, cinematic lighting, 4K",
     "category": "Hindu",
     "type": "image"
   },
   {
     "id": "img_002",
-    "name": "Lord_Vishnu_standing_on_cosmic_ocean_holding_chakra_and_conch_glowing_aura_divine_light_cinematic_4K",
+    "name": "Vishnu",
     "prompt": "Lord Vishnu standing on cosmic ocean, holding chakra and conch, glowing aura, divine light, cinematic 4K",
     "category": "Hindu",
     "type": "image"
   },
   {
     "id": "img_003",
-    "name": "Lord_Brahma_with_four_heads_sitting_on_lotus_golden_glow_creation_energy_ultra_detailed_4K",
+    "name": "Brahma",
     "prompt": "Lord Brahma with four heads, sitting on lotus, golden glow, creation energy, ultra detailed, 4K",
     "category": "Hindu",
     "type": "image"
   },
   {
     "id": "img_004",
-    "name": "Lord_Krishna_playing_flute_peacock_feather_glowing_blue_skin_Vrindavan_background_soft_divine_lighting_4K",
+    "name": "Krishna",
     "prompt": "Lord Krishna playing flute, peacock feather, glowing blue skin, Vrindavan background, soft divine lighting, 4K",
     "category": "Hindu",
     "type": "image"
   },
   {
     "id": "img_005",
-    "name": "Lord_Rama_with_bow_and_arrow_royal_attire_glowing_aura_epic_battlefield_background_cinematic_4K",
+    "name": "Rama",
     "prompt": "Lord Rama with bow and arrow, royal attire, glowing aura, epic battlefield background, cinematic 4K",
     "category": "Hindu",
     "type": "image"
   },
   {
     "id": "img_006",
-    "name": "Lord_Ganesha_sitting_on_throne_elephant_head_golden_ornaments_glowing_aura_ultra_detailed_4K",
+    "name": "Ganesha",
     "prompt": "Lord Ganesha sitting on throne, elephant head, golden ornaments, glowing aura, ultra detailed, 4K",
     "category": "Hindu",
     "type": "image"
   },
   {
     "id": "img_007",
-    "name": "Goddess_Kali_fierce_form_glowing_eyes_dark_battlefield_fire_aura_cinematic_lighting_4K",
+    "name": "Kali",
     "prompt": "Goddess Kali fierce form, glowing eyes, dark battlefield, fire aura, cinematic lighting, 4K",
     "category": "Hindu",
     "type": "image"
   },
   {
     "id": "img_008",
-    "name": "Goddess_Durga_riding_lion_multiple_arms_holding_weapons_glowing_aura_epic_background_4K",
+    "name": "Durga",
     "prompt": "Goddess Durga riding lion, multiple arms holding weapons, glowing aura, epic background, 4K",
     "category": "Hindu",
     "type": "image"
   },
   {
     "id": "img_009",
-    "name": "Goddess_Lakshmi_sitting_on_lotus_gold_coins_flowing_rich_golden_lighting_divine_aura_4K",
+    "name": "Lakshmi",
     "prompt": "Goddess Lakshmi sitting on lotus, gold coins flowing, rich golden lighting, divine aura, 4K",
     "category": "Hindu",
     "type": "image"
   },
   {
     "id": "img_010",
-    "name": "Goddess_Saraswati_with_veena_white_attire_swan_beside_peaceful_aura_soft_light_4K",
+    "name": "Saraswati",
     "prompt": "Goddess Saraswati with veena, white attire, swan beside, peaceful aura, soft light, 4K",
     "category": "Hindu",
     "type": "image"
   },
   {
     "id": "img_011",
-    "name": "Lord_Hanuman_flying_with_mountain_muscular_body_glowing_aura_epic_sky_background_4K",
+    "name": "Hanuman",
     "prompt": "Lord Hanuman flying with mountain, muscular body, glowing aura, epic sky background, 4K",
     "category": "Hindu",
     "type": "image"
   },
   {
     "id": "img_012",
-    "name": "Lord_Kartikeya_riding_peacock_warrior_armor_glowing_spear_divine_aura_4K",
+    "name": "Kartikeya",
     "prompt": "Lord Kartikeya riding peacock, warrior armor, glowing spear, divine aura, 4K",
     "category": "Hindu",
     "type": "image"
   },
   {
     "id": "img_013",
-    "name": "Goddess_Parvati_glowing_aura_Himalayan_background_elegant_beauty_cinematic_lighting_4K",
+    "name": "Parvati",
     "prompt": "Goddess Parvati glowing aura, Himalayan background, elegant beauty, cinematic lighting, 4K",
     "category": "Hindu",
     "type": "image"
   },
   {
     "id": "img_014",
-    "name": "Lord_Shiva_Nataraja_dancing_in_cosmic_fire_circle_dynamic_pool_glowing_energy_4K",
+    "name": "Nataraja",
     "prompt": "Lord Shiva Nataraja dancing in cosmic fire circle, dynamic pool, glowing energy, 4K",
     "category": "Hindu",
     "type": "image"
   },
   {
     "id": "img_015",
-    "name": "Half_Shiva_half_Parvati_form_divine_balance_glowing_aura_cosmic_background_4K",
+    "name": "Ardhanarishvara",
     "prompt": "Half Shiva half Parvati form, divine balance, glowing aura, cosmic background, 4K",
     "category": "Hindu",
     "type": "image"
   },
   {
     "id": "img_016",
-    "name": "Matsya_avatar_emerging_from_ocean_glowing_divine_aura_waves_crashing_cinematic_lighting_4K",
+    "name": "Matsya",
     "prompt": "Matsya avatar emerging from ocean, glowing divine aura, waves crashing, cinematic lighting, 4K",
     "category": "Hindu",
     "type": "image"
   },
   {
     "id": "img_017",
-    "name": "Kurma_avatar_supporting_mountain_in_ocean_cosmic_energy_glowing_aura_4K",
+    "name": "Kurma",
     "prompt": "Kurma avatar supporting mountain in ocean, cosmic energy, glowing aura, 4K",
     "category": "Hindu",
     "type": "image"
   },
   {
     "id": "img_018",
-    "name": "Varaha_lifting_Earth_boar_form_cosmic_background_glowing_divine_aura_4K",
+    "name": "Varaha",
     "prompt": "Varaha lifting Earth, boar form, cosmic background, glowing divine aura, 4K",
     "category": "Hindu",
     "type": "image"
   },
   {
     "id": "img_019",
-    "name": "Narasimha_lion_form_glowing_eyes_tearing_demon_fire_aura_cinematic_4K",
+    "name": "Narasimha",
     "prompt": "Narasimha lion form, glowing eyes, tearing demon, fire aura, cinematic 4K",
     "category": "Hindu",
     "type": "image"
   },
   {
     "id": "img_020",
-    "name": "Vamana_growing_giant_form_cosmic_expansion_divine_light_4K",
+    "name": "Vamana",
     "prompt": "Vamana growing giant form, cosmic expansion, divine light, 4K",
     "category": "Hindu",
     "type": "image"
   },
   {
     "id": "img_021",
-    "name": "Parashurama_holding_axe_warrior_stance_stormy_background_glowing_aura_4K",
+    "name": "Parashurama",
     "prompt": "Parashurama holding axe, warrior stance, stormy background, glowing aura, 4K",
     "category": "Hindu",
     "type": "image"
   },
   {
     "id": "img_022",
-    "name": "Buddha_meditating_under_tree_peaceful_aura_golden_light_ultra_calm_4K",
+    "name": "Buddha",
     "prompt": "Buddha meditating under tree, peaceful aura, golden light, ultra calm, 4K",
     "category": "Hindu",
     "type": "image"
   },
   {
     "id": "img_023",
-    "name": "Kalki_riding_white_horse_glowing_sword_apocalyptic_background_cinematic_4K",
+    "name": "Kalki",
     "prompt": "Kalki riding white horse, glowing sword, apocalyptic background, cinematic 4K",
     "category": "Hindu",
     "type": "image"
   },
   {
     "id": "img_024",
-    "name": "Kubera_sitting_on_treasure_throne_gold_coins_glowing_aura_rich_lighting_4K",
+    "name": "Kubera",
     "prompt": "Kubera sitting on treasure throne, gold coins, glowing aura, rich lighting, 4K",
     "category": "Hindu",
     "type": "image"
   },
   {
     "id": "img_025",
-    "name": "Kamadeva_with_bow_of_flowers_romantic_aura_glowing_light_fantasy_background_4K",
+    "name": "Kamadeva",
     "prompt": "Kamadeva with bow of flowers, romantic aura, glowing light, fantasy background, 4K",
     "category": "Hindu",
     "type": "image"
   },
   {
     "id": "img_026",
-    "name": "Rati_goddess_of_beauty_glowing_aura_elegant_divine_lighting_4K",
+    "name": "Rati",
     "prompt": "Rati goddess of beauty, glowing aura, elegant divine lighting, 4K",
     "category": "Hindu",
     "type": "image"
   },
   {
     "id": "img_027",
-    "name": "Shani_Dev_dark_aura_sitting_on_crow_powerful_presence_cosmic_background_4K",
+    "name": "Shani",
     "prompt": "Shani Dev dark aura, sitting on crow, powerful presence, cosmic background, 4K",
     "category": "Hindu",
     "type": "image"
   },
   {
     "id": "img_028",
-    "name": "Surya_riding_chariot_of_seven_horses_blazing_sun_aura_golden_light_4K",
+    "name": "Surya",
     "prompt": "Surya riding chariot of seven horses, blazing sun aura, golden light, 4K",
     "category": "Hindu",
     "type": "image"
   },
   {
     "id": "img_029",
-    "name": "Chandra_moon_god_glowing_silver_aura_night_sky_calm_divine_light_4K",
+    "name": "Chandra",
     "prompt": "Chandra moon god glowing silver aura, night sky, calm divine light, 4K",
     "category": "Hindu",
     "type": "image"
   },
   {
     "id": "img_030",
-    "name": "Varuna_ocean_god_rising_from_water_trident_deep_sea_aura_cinematic_4K",
+    "name": "Varuna",
     "prompt": "Varuna ocean god rising from water, trident, deep sea aura, cinematic 4K",
     "category": "Hindu",
     "type": "image"
   },
   {
     "id": "img_031",
-    "name": "Indra_holding_thunderbolt_storm_clouds_lightning_powerful_aura_4K",
+    "name": "Indra",
     "prompt": "Indra holding thunderbolt, storm clouds, lightning, powerful aura, 4K",
     "category": "Hindu",
     "type": "image"
   },
   {
     "id": "img_032",
-    "name": "Agni_fire_god_surrounded_by_flames_glowing_red_aura_intense_heat_energy_4K",
+    "name": "Agni",
     "prompt": "Agni fire god surrounded by flames, glowing red aura, intense heat energy, 4K",
     "category": "Hindu",
     "type": "image"
   },
   {
     "id": "img_033",
-    "name": "Vayu_wind_god_in_motion_swirling_air_currents_dynamic_aura_cinematic_4K",
+    "name": "Vayu",
     "prompt": "Vayu wind god in motion, swirling air currents, dynamic aura, cinematic 4K",
     "category": "Hindu",
     "type": "image"
   },
   {
     "id": "img_034",
-    "name": "Yama_god_of_death_dark_aura_buffalo_mount_glowing_eyes_dramatic_4K",
+    "name": "Yama",
     "prompt": "Yama god of death, dark aura, buffalo mount, glowing eyes, dramatic 4K",
     "category": "Hindu",
     "type": "image"
   },
   {
     "id": "img_035",
-    "name": "Zeus_holding_lightning_bolt_storm_clouds_glowing_aura_epic_cinematic_4K",
+    "name": "Zeus",
     "prompt": "Zeus holding lightning bolt, storm clouds, glowing aura, epic cinematic 4K",
     "category": "Greek",
     "type": "image"
   },
   {
     "id": "img_036",
-    "name": "Poseidon_rising_from_ocean_trident_massive_waves_cinematic_lighting_4K",
+    "name": "Poseidon",
     "prompt": "Poseidon rising from ocean, trident, massive waves, cinematic lighting, 4K",
     "category": "Greek",
     "type": "image"
   },
   {
     "id": "img_037",
-    "name": "Hades_in_dark_underworld_shadow_aura_glowing_eyes_cinematic_4K",
+    "name": "Hades",
     "prompt": "Hades in dark underworld, shadow aura, glowing eyes, cinematic 4K",
     "category": "Greek",
     "type": "image"
   },
   {
     "id": "img_038",
-    "name": "Athena_warrior_goddess_with_armor_and_shield_glowing_aura_epic_background_4K",
+    "name": "Athena",
     "prompt": "Athena warrior goddess with armor and shield, glowing aura, epic background, 4K",
     "category": "Greek",
     "type": "image"
   },
   {
     "id": "img_039",
-    "name": "Apollo_sun_god_glowing_golden_aura_radiant_light_divine_energy_4K",
+    "name": "Apollo",
     "prompt": "Apollo sun god glowing golden aura, radiant light, divine energy, 4K",
     "category": "Greek",
     "type": "image"
   },
   {
     "id": "img_040",
-    "name": "Artemis_with_bow_in_moonlight_forest_glowing_aura_cinematic_4K",
+    "name": "Artemis",
     "prompt": "Artemis with bow in moonlight forest, glowing aura, cinematic 4K",
     "category": "Greek",
     "type": "image"
   },
   {
     "id": "img_041",
-    "name": "Ares_god_of_war_in_battlefield_armor_fire_aura_intense_cinematic_4K",
+    "name": "Ares",
     "prompt": "Ares god of war in battlefield, armor, fire aura, intense cinematic 4K",
     "category": "Greek",
     "type": "image"
   },
   {
     "id": "img_042",
-    "name": "Hermes_with_winged_sandals_speed_motion_blur_glowing_aura_4K",
+    "name": "Hermes",
     "prompt": "Hermes with winged sandals, speed motion blur, glowing aura, 4K",
     "category": "Greek",
     "type": "image"
   },
   {
     "id": "img_043",
-    "name": "Odin_with_ravens_one_eye_glowing_dark_mystical_aura_cinematic_4K",
+    "name": "Odin",
     "prompt": "Odin with ravens, one eye glowing, dark mystical aura, cinematic 4K",
     "category": "Norse",
     "type": "image"
   },
   {
     "id": "img_044",
-    "name": "Thor_holding_hammer_lightning_storm_powerful_aura_cinematic_4K",
+    "name": "Thor",
     "prompt": "Thor holding hammer, lightning storm, powerful aura, cinematic 4K",
     "category": "Norse",
     "type": "image"
   },
   {
     "id": "img_045",
-    "name": "Loki_trickster_god_illusion_magic_green_aura_dark_cinematic_4K",
+    "name": "Loki",
     "prompt": "Loki trickster god, illusion magic, green aura, dark cinematic 4K",
     "category": "Norse",
     "type": "image"
   },
   {
     "id": "img_046",
-    "name": "Freya_glowing_aura_beauty_and_war_energy_cinematic_4K",
+    "name": "Freya",
     "prompt": "Freya glowing aura, beauty and war energy, cinematic 4K",
     "category": "Norse",
     "type": "image"
   },
   {
     "id": "img_047",
-    "name": "Tyr_warrior_god_battle_stance_glowing_aura_epic_4K",
+    "name": "Tyr",
     "prompt": "Tyr warrior god, battle stance, glowing aura, epic 4K",
     "category": "Norse",
     "type": "image"
   },
   {
     "id": "img_048",
-    "name": "Ra_sun_god_with_falcon_head_blazing_sun_aura_golden_light_4K",
+    "name": "Ra",
     "prompt": "Ra sun god with falcon head, blazing sun aura, golden light, 4K",
     "category": "Egyptian",
     "type": "image"
   },
   {
     "id": "img_049",
-    "name": "Anubis_jackal-headed_god_dark_aura_glowing_eyes_underworld_theme_4K",
+    "name": "Anubis",
     "prompt": "Anubis jackal-headed god, dark aura, glowing eyes, underworld theme, 4K",
     "category": "Egyptian",
     "type": "image"
   },
   {
     "id": "img_050",
-    "name": "Osiris_god_of_afterlife_green_aura_mystical_background_cinematic_4K",
+    "name": "Osiris",
     "prompt": "Osiris god of afterlife, green aura, mystical background, cinematic 4K",
     "category": "Egyptian",
     "type": "image"
   },
   {
     "id": "img_051",
-    "name": "Isis_goddess_with_wings_glowing_aura_divine_feminine_energy_4K",
+    "name": "Isis",
     "prompt": "Isis goddess with wings, glowing aura, divine feminine energy, 4K",
     "category": "Egyptian",
     "type": "image"
   },
   {
     "id": "img_052",
-    "name": "Horus_falcon_god_sky_aura_glowing_eyes_epic_cinematic_4K",
+    "name": "Horus",
     "prompt": "Horus falcon god, sky aura, glowing eyes, epic cinematic 4K",
     "category": "Egyptian",
     "type": "image"
   },
   {
     "id": "img_053",
-    "name": "Amaterasu_sun_goddess_radiant_light_divine_glow_cinematic_4K",
+    "name": "Amaterasu",
     "prompt": "Amaterasu sun goddess, radiant light, divine glow, cinematic 4K",
     "category": "Japanese",
     "type": "image"
   },
   {
     "id": "img_054",
-    "name": "Susanoo_storm_god_lightning_and_waves_powerful_aura_4K",
+    "name": "Susanoo",
     "prompt": "Susanoo storm god, lightning and waves, powerful aura, 4K",
     "category": "Japanese",
     "type": "image"
   },
   {
     "id": "img_055",
-    "name": "Tsukuyomi_moon_god_night_aura_glowing_silver_light_cinematic_4K",
+    "name": "Tsukuyomi",
     "prompt": "Tsukuyomi moon god, night aura, glowing silver light, cinematic 4K",
     "category": "Japanese",
     "type": "image"
   },
   {
     "id": "img_056",
-    "name": "Jade_Emperor_royal_throne_heavenly_aura_divine_light_4K",
+    "name": "Jade Emperor",
     "prompt": "Jade Emperor royal throne, heavenly aura, divine light, 4K",
     "category": "Chinese",
     "type": "image"
   },
   {
     "id": "img_057",
-    "name": "Guan_Yu_warrior_god_armor_glowing_aura_epic_battlefield_4K",
+    "name": "Guan Yu",
     "prompt": "Guan Yu warrior god, armor, glowing aura, epic battlefield, 4K",
     "category": "Chinese",
     "type": "image"
   },
   {
     "id": "img_058",
-    "name": "Feathered_serpent_god_vibrant_colors_mystical_aura_cinematic_4K",
+    "name": "Quetzalcoatl",
     "prompt": "Feathered serpent god, vibrant colors, mystical aura, cinematic 4K",
     "category": "Aztec",
     "type": "image"
   },
   {
     "id": "img_059",
-    "name": "Tezcatlipoca_night_god_dark_aura_glowing_symbols_4K",
+    "name": "Tezcatlipoca",
     "prompt": "Tezcatlipoca night god, dark aura, glowing symbols, 4K",
     "category": "Aztec",
     "type": "image"
   },
   {
     "id": "img_060",
-    "name": "Inti_sun_god_glowing_golden_aura_radiant_light_4K",
+    "name": "Inti",
     "prompt": "Inti sun god glowing golden aura, radiant light, 4K",
     "category": "Inca",
     "type": "image"
   },
   {
     "id": "img_061",
-    "name": "Viracocha_creator_god_cosmic_energy_glowing_aura_cinematic_4K",
+    "name": "Viracocha",
     "prompt": "Viracocha creator god, cosmic energy, glowing aura, cinematic 4K",
     "category": "Inca",
     "type": "image"
   },
   {
     "id": "img_062",
-    "name": "Ah_Puch_death_god_skeleton_form_dark_aura_eerie_lighting_4K",
+    "name": "Ah Puch",
     "prompt": "Ah Puch death god, skeleton form, dark aura, eerie lighting, 4K",
     "category": "Mayan",
     "type": "image"
   },
   {
     "id": "img_063",
-    "name": "Primordial_chaos_swirling_cosmic_void_dark_energy_cinematic_4K",
+    "name": "Chaos",
     "prompt": "Primordial chaos, swirling cosmic void, dark energy, cinematic 4K",
     "category": "Concept God",
     "type": "image"
   },
   {
     "id": "img_064",
-    "name": "Time_god_Chronos_cosmic_clock_glowing_time_energy_4K",
+    "name": "Chronos",
     "prompt": "Time god Chronos, cosmic clock, glowing time energy, 4K",
     "category": "Concept God",
     "type": "image"
   },
   {
     "id": "img_065",
-    "name": "Nyx_goddess_of_night_dark_sky_aura_stars_glowing_cinematic_4K",
+    "name": "Nyx",
     "prompt": "Nyx goddess of night, dark sky aura, stars glowing, cinematic 4K",
     "category": "Concept God",
     "type": "image"
   },
   {
     "id": "img_066",
-    "name": "Erebus_darkness_deity_shadow_aura_deep_void_background_4K",
+    "name": "Erebus",
     "prompt": "Erebus darkness deity, shadow aura, deep void background, 4K",
     "category": "Concept God",
     "type": "image"
   },
   {
     "id": "img_067",
-    "name": "Gaia_earth_goddess_nature_energy_glowing_green_aura_4K",
+    "name": "Gaia",
     "prompt": "Gaia earth goddess, nature energy, glowing green aura, 4K",
     "category": "Concept God",
     "type": "image"
   },
   {
     "id": "img_068",
-    "name": "Hel_underworld_goddess_half_dark_half_alive_form_eerie_aura_4K",
+    "name": "Hel",
     "prompt": "Hel underworld goddess, half dark half alive form, eerie aura, 4K",
     "category": "Norse",
     "type": "image"
   },
   {
     "id": "img_069",
-    "name": "Baldr_god_of_light_glowing_radiant_aura_peaceful_energy_4K",
+    "name": "Baldr",
     "prompt": "Baldr god of light, glowing radiant aura, peaceful energy, 4K",
     "category": "Norse",
     "type": "image"
   },
   {
     "id": "img_070",
-    "name": "Set_chaos_god_desert_storm_dark_aura_intense_cinematic_4K",
+    "name": "Set",
     "prompt": "Set chaos god, desert storm, dark aura, intense cinematic 4K",
     "category": "Egyptian",
     "type": "image"
   },
   {
     "id": "img_071",
-    "name": "Sekhmet_lion_goddess_fire_aura_glowing_eyes_intense_power_4K",
+    "name": "Sekhmet",
     "prompt": "Sekhmet lion goddess, fire aura, glowing eyes, intense power, 4K",
     "category": "Egyptian",
     "type": "image"
   },
   {
     "id": "img_072",
-    "name": "Bhairava_fierce_Shiva_form_dark_aura_skull_garland_glowing_eyes_4K",
+    "name": "Bhairava",
     "prompt": "Bhairava fierce Shiva form, dark aura, skull garland, glowing eyes, 4K",
     "category": "Hindu",
     "type": "image"
   },
   {
     "id": "img_073",
-    "name": "Veerabhadra_warrior_form_rage_aura_battlefield_cinematic_4K",
+    "name": "Veerabhadra",
     "prompt": "Veerabhadra warrior form, rage aura, battlefield, cinematic 4K",
     "category": "Hindu",
     "type": "image"
   },
   {
     "id": "img_074",
-    "name": "Bagalamukhi_golden_aura_mystical_power_divine_glow_4K",
+    "name": "Bagalamukhi",
     "prompt": "Bagalamukhi golden aura, mystical power, divine glow, 4K",
     "category": "Hindu",
     "type": "image"
   },
   {
     "id": "img_075",
-    "name": "Dhumavati_dark_goddess_void_aura_eerie_atmosphere_cinematic_4K",
+    "name": "Dhumavati",
     "prompt": "Dhumavati dark goddess, void aura, eerie atmosphere, cinematic 4K",
     "category": "Hindu",
     "type": "image"
   },
   {
     "id": "img_076",
-    "name": "Ayyappa_sitting_in_meditative_pose_glowing_aura_temple_background_4K",
+    "name": "Ayyappa",
     "prompt": "Ayyappa sitting in meditative pose, glowing aura, temple background, 4K",
     "category": "Hindu",
     "type": "image"
   },
   {
     "id": "img_077",
-    "name": "Dattatreya_with_three_heads_divine_aura_spiritual_background_4K",
+    "name": "Dattatreya",
     "prompt": "Dattatreya with three heads, divine aura, spiritual background, 4K",
     "category": "Hindu",
     "type": "image"
   },
   {
     "id": "img_078",
-    "name": "Twin_gods_glowing_aura_divine_healing_energy_celestial_background_4K",
+    "name": "Ashwini Kumaras",
     "prompt": "Twin gods glowing aura, divine healing energy, celestial background, 4K",
     "category": "Hindu",
     "type": "image"
   },
   {
     "id": "img_079",
-    "name": "Durga_slaying_demon_intense_battle_glowing_aura_cinematic_4K",
+    "name": "Mahishasura Mardini",
     "prompt": "Durga slaying demon, intense battle, glowing aura, cinematic 4K",
     "category": "Hindu",
     "type": "image"
   },
   {
     "id": "img_080",
-    "name": "Chandika_fierce_goddess_fire_aura_rage_expression_epic_cinematic_4K",
+    "name": "Chandika",
     "prompt": "Chandika fierce goddess, fire aura, rage expression, epic cinematic 4K",
     "category": "Hindu",
     "type": "image"
