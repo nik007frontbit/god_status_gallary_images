@@ -4,2263 +4,1980 @@
     "name": "Shiva",
     "prompt": "Ultra realistic Lord Shiva, blue skin, glowing third eye, trident, Himalaya background, cosmic aura, cinematic lighting, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Ultra_realistic_Lord_Shiva_blue_skin_glowing_third_eye_trident_Himalaya_background_cosmic_aura_cinematic_lighting_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_002",
     "name": "Vishnu",
     "prompt": "Lord Vishnu standing on cosmic ocean, holding chakra and conch, glowing aura, divine light, cinematic 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Lord_Vishnu_standing_on_cosmic_ocean_holding_chakra_and_conch_glowing_aura_divine_light_cinematic_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_003",
     "name": "Brahma",
     "prompt": "Lord Brahma with four heads, sitting on lotus, golden glow, creation energy, ultra detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Lord_Brahma_with_four_heads_sitting_on_lotus_golden_glow_creation_energy_ultra_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_004",
     "name": "Krishna",
     "prompt": "Lord Krishna playing flute, peacock feather, glowing blue skin, Vrindavan background, soft divine lighting, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Lord_Krishna_playing_flute_peacock_feather_glowing_blue_skin_Vrindavan_background_soft_divine_lighting_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_005",
     "name": "Rama",
     "prompt": "Lord Rama with bow and arrow, royal attire, glowing aura, epic battlefield background, cinematic 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Lord_Rama_with_bow_and_arrow_royal_attire_glowing_aura_epic_battlefield_background_cinematic_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_006",
     "name": "Ganesha",
     "prompt": "Lord Ganesha sitting on throne, elephant head, golden ornaments, glowing aura, ultra detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Lord_Ganesha_sitting_on_throne_elephant_head_golden_ornaments_glowing_aura_ultra_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_007",
     "name": "Kali",
     "prompt": "Goddess Kali fierce form, glowing eyes, dark battlefield, fire aura, cinematic lighting, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Goddess_Kali_fierce_form_glowing_eyes_dark_battlefield_fire_aura_cinematic_lighting_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_008",
     "name": "Durga",
     "prompt": "Goddess Durga riding lion, multiple arms holding weapons, glowing aura, epic background, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Goddess_Durga_riding_lion_multiple_arms_holding_weapons_glowing_aura_epic_background_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_009",
     "name": "Lakshmi",
     "prompt": "Goddess Lakshmi sitting on lotus, gold coins flowing, rich golden lighting, divine aura, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Goddess_Lakshmi_sitting_on_lotus_gold_coins_flowing_rich_golden_lighting_divine_aura_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_010",
     "name": "Saraswati",
     "prompt": "Goddess Saraswati with veena, white attire, swan beside, peaceful aura, soft light, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Goddess_Saraswati_with_veena_white_attire_swan_beside_peaceful_aura_soft_light_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_011",
     "name": "Hanuman",
     "prompt": "Lord Hanuman flying with mountain, muscular body, glowing aura, epic sky background, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Lord_Hanuman_flying_with_mountain_muscular_body_glowing_aura_epic_sky_background_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_012",
     "name": "Kartikeya",
     "prompt": "Lord Kartikeya riding peacock, warrior armor, glowing spear, divine aura, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Lord_Kartikeya_riding_peacock_warrior_armor_glowing_spear_divine_aura_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_013",
     "name": "Parvati",
     "prompt": "Goddess Parvati glowing aura, Himalayan background, elegant beauty, cinematic lighting, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Goddess_Parvati_glowing_aura_Himalayan_background_elegant_beauty_cinematic_lighting_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_014",
     "name": "Nataraja",
     "prompt": "Lord Shiva Nataraja dancing in cosmic fire circle, dynamic pool, glowing energy, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Lord_Shiva_Nataraja_dancing_in_cosmic_fire_circle_dynamic_pool_glowing_energy_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_015",
     "name": "Ardhanarishvara",
     "prompt": "Half Shiva half Parvati form, divine balance, glowing aura, cosmic background, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Half_Shiva_half_Parvati_form_divine_balance_glowing_aura_cosmic_background_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_016",
     "name": "Matsya",
     "prompt": "Matsya avatar emerging from ocean, glowing divine aura, waves crashing, cinematic lighting, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Matsya_avatar_emerging_from_ocean_glowing_divine_aura_waves_crashing_cinematic_lighting_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_017",
     "name": "Kurma",
     "prompt": "Kurma avatar supporting mountain in ocean, cosmic energy, glowing aura, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Kurma_avatar_supporting_mountain_in_ocean_cosmic_energy_glowing_aura_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_018",
     "name": "Varaha",
     "prompt": "Varaha lifting Earth, boar form, cosmic background, glowing divine aura, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Varaha_lifting_Earth_boar_form_cosmic_background_glowing_divine_aura_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_019",
     "name": "Narasimha",
     "prompt": "Narasimha lion form, glowing eyes, tearing demon, fire aura, cinematic 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Narasimha_lion_form_glowing_eyes_tearing_demon_fire_aura_cinematic_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_020",
     "name": "Vamana",
     "prompt": "Vamana growing giant form, cosmic expansion, divine light, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Vamana_growing_giant_form_cosmic_expansion_divine_light_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_021",
     "name": "Parashurama",
     "prompt": "Parashurama holding axe, warrior stance, stormy background, glowing aura, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Parashurama_holding_axe_warrior_stance_stormy_background_glowing_aura_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_022",
     "name": "Buddha",
     "prompt": "Buddha meditating under tree, peaceful aura, golden light, ultra calm, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Buddha_meditating_under_tree_peaceful_aura_golden_light_ultra_calm_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_023",
     "name": "Kalki",
     "prompt": "Kalki riding white horse, glowing sword, apocalyptic background, cinematic 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Kalki_riding_white_horse_glowing_sword_apocalyptic_background_cinematic_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_024",
     "name": "Kubera",
     "prompt": "Kubera sitting on treasure throne, gold coins, glowing aura, rich lighting, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Kubera_sitting_on_treasure_throne_gold_coins_glowing_aura_rich_lighting_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_025",
     "name": "Kamadeva",
     "prompt": "Kamadeva with bow of flowers, romantic aura, glowing light, fantasy background, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Kamadeva_with_bow_of_flowers_romantic_aura_glowing_light_fantasy_background_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_026",
     "name": "Rati",
     "prompt": "Rati goddess of beauty, glowing aura, elegant divine lighting, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Rati_goddess_of_beauty_glowing_aura_elegant_divine_lighting_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_027",
     "name": "Shani",
     "prompt": "Shani Dev dark aura, sitting on crow, powerful presence, cosmic background, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Shani_Dev_dark_aura_sitting_on_crow_powerful_presence_cosmic_background_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_028",
     "name": "Surya",
     "prompt": "Surya riding chariot of seven horses, blazing sun aura, golden light, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Surya_riding_chariot_of_seven_horses_blazing_sun_aura_golden_light_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_029",
     "name": "Chandra",
     "prompt": "Chandra moon god glowing silver aura, night sky, calm divine light, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Chandra_moon_god_glowing_silver_aura_night_sky_calm_divine_light_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_030",
     "name": "Varuna",
     "prompt": "Varuna ocean god rising from water, trident, deep sea aura, cinematic 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Varuna_ocean_god_rising_from_water_trident_deep_sea_aura_cinematic_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_031",
     "name": "Indra",
     "prompt": "Indra holding thunderbolt, storm clouds, lightning, powerful aura, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Indra_holding_thunderbolt_storm_clouds_lightning_powerful_aura_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_032",
     "name": "Agni",
     "prompt": "Agni fire god surrounded by flames, glowing red aura, intense heat energy, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Agni_fire_god_surrounded_by_flames_glowing_red_aura_intense_heat_energy_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_033",
     "name": "Vayu",
     "prompt": "Vayu wind god in motion, swirling air currents, dynamic aura, cinematic 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Vayu_wind_god_in_motion_swirling_air_currents_dynamic_aura_cinematic_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_034",
     "name": "Yama",
     "prompt": "Yama god of death, dark aura, buffalo mount, glowing eyes, dramatic 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Yama_god_of_death_dark_aura_buffalo_mount_glowing_eyes_dramatic_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_035",
     "name": "Zeus",
     "prompt": "Zeus holding lightning bolt, storm clouds, glowing aura, epic cinematic 4K",
     "category": "Greek",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Zeus_holding_lightning_bolt_storm_clouds_glowing_aura_epic_cinematic_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_036",
     "name": "Poseidon",
     "prompt": "Poseidon rising from ocean, trident, massive waves, cinematic lighting, 4K",
     "category": "Greek",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Poseidon_rising_from_ocean_trident_massive_waves_cinematic_lighting_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_037",
     "name": "Hades",
     "prompt": "Hades in dark underworld, shadow aura, glowing eyes, cinematic 4K",
     "category": "Greek",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Hades_in_dark_underworld_shadow_aura_glowing_eyes_cinematic_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_038",
     "name": "Athena",
     "prompt": "Athena warrior goddess with armor and shield, glowing aura, epic background, 4K",
     "category": "Greek",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Athena_warrior_goddess_with_armor_and_shield_glowing_aura_epic_background_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_039",
     "name": "Apollo",
     "prompt": "Apollo sun god glowing golden aura, radiant light, divine energy, 4K",
     "category": "Greek",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Apollo_sun_god_glowing_golden_aura_radiant_light_divine_energy_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_040",
     "name": "Artemis",
     "prompt": "Artemis with bow in moonlight forest, glowing aura, cinematic 4K",
     "category": "Greek",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Artemis_with_bow_in_moonlight_forest_glowing_aura_cinematic_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_041",
     "name": "Ares",
     "prompt": "Ares god of war in battlefield, armor, fire aura, intense cinematic 4K",
     "category": "Greek",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Ares_god_of_war_in_battlefield_armor_fire_aura_intense_cinematic_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_042",
     "name": "Hermes",
     "prompt": "Hermes with winged sandals, speed motion blur, glowing aura, 4K",
     "category": "Greek",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Hermes_with_winged_sandals_speed_motion_blur_glowing_aura_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_043",
     "name": "Odin",
     "prompt": "Odin with ravens, one eye glowing, dark mystical aura, cinematic 4K",
     "category": "Norse",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Odin_with_ravens_one_eye_glowing_dark_mystical_aura_cinematic_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_044",
     "name": "Thor",
     "prompt": "Thor holding hammer, lightning storm, powerful aura, cinematic 4K",
     "category": "Norse",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Thor_holding_hammer_lightning_storm_powerful_aura_cinematic_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_045",
     "name": "Loki",
     "prompt": "Loki trickster god, illusion magic, green aura, dark cinematic 4K",
     "category": "Norse",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Loki_trickster_god_illusion_magic_green_aura_dark_cinematic_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_046",
     "name": "Freya",
     "prompt": "Freya glowing aura, beauty and war energy, cinematic 4K",
     "category": "Norse",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Freya_glowing_aura_beauty_and_war_energy_cinematic_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_047",
     "name": "Tyr",
     "prompt": "Tyr warrior god, battle stance, glowing aura, epic 4K",
     "category": "Norse",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Tyr_warrior_god_battle_stance_glowing_aura_epic_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_048",
     "name": "Ra",
     "prompt": "Ra sun god with falcon head, blazing sun aura, golden light, 4K",
     "category": "Egyptian",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Ra_sun_god_with_falcon_head_blazing_sun_aura_golden_light_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_049",
     "name": "Anubis",
-    "prompt": "Anubis jackal-headed god, dark aura, glowing eyes, underworld theme, 4K",
+    "prompt": "Anubis jackalheaded god, dark aura, glowing eyes, underworld theme, 4K",
     "category": "Egyptian",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Anubis_jackal-headed_god_dark_aura_glowing_eyes_underworld_theme_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_050",
     "name": "Osiris",
     "prompt": "Osiris god of afterlife, green aura, mystical background, cinematic 4K",
     "category": "Egyptian",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Osiris_god_of_afterlife_green_aura_mystical_background_cinematic_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_051",
     "name": "Isis",
     "prompt": "Isis goddess with wings, glowing aura, divine feminine energy, 4K",
     "category": "Egyptian",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Isis_goddess_with_wings_glowing_aura_divine_feminine_energy_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_052",
     "name": "Horus",
     "prompt": "Horus falcon god, sky aura, glowing eyes, epic cinematic 4K",
     "category": "Egyptian",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Horus_falcon_god_sky_aura_glowing_eyes_epic_cinematic_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_053",
     "name": "Amaterasu",
     "prompt": "Amaterasu sun goddess, radiant light, divine glow, cinematic 4K",
     "category": "Japanese",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Amaterasu_sun_goddess_radiant_light_divine_glow_cinematic_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_054",
     "name": "Susanoo",
     "prompt": "Susanoo storm god, lightning and waves, powerful aura, 4K",
     "category": "Japanese",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Susanoo_storm_god_lightning_and_waves_powerful_aura_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_055",
     "name": "Tsukuyomi",
     "prompt": "Tsukuyomi moon god, night aura, glowing silver light, cinematic 4K",
     "category": "Japanese",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Tsukuyomi_moon_god_night_aura_glowing_silver_light_cinematic_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_056",
     "name": "Jade Emperor",
     "prompt": "Jade Emperor royal throne, heavenly aura, divine light, 4K",
     "category": "Chinese",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Jade_Emperor_royal_throne_heavenly_aura_divine_light_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_057",
     "name": "Guan Yu",
     "prompt": "Guan Yu warrior god, armor, glowing aura, epic battlefield, 4K",
     "category": "Chinese",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Guan_Yu_warrior_god_armor_glowing_aura_epic_battlefield_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_058",
     "name": "Quetzalcoatl",
     "prompt": "Feathered serpent god, vibrant colors, mystical aura, cinematic 4K",
     "category": "Aztec",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Feathered_serpent_god_vibrant_colors_mystical_aura_cinematic_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_059",
     "name": "Tezcatlipoca",
     "prompt": "Tezcatlipoca night god, dark aura, glowing symbols, 4K",
     "category": "Aztec",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Tezcatlipoca_night_god_dark_aura_glowing_symbols_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_060",
     "name": "Inti",
     "prompt": "Inti sun god glowing golden aura, radiant light, 4K",
     "category": "Inca",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Inti_sun_god_glowing_golden_aura_radiant_light_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_061",
     "name": "Viracocha",
     "prompt": "Viracocha creator god, cosmic energy, glowing aura, cinematic 4K",
     "category": "Inca",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Viracocha_creator_god_cosmic_energy_glowing_aura_cinematic_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_062",
     "name": "Ah Puch",
     "prompt": "Ah Puch death god, skeleton form, dark aura, eerie lighting, 4K",
     "category": "Mayan",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Ah_Puch_death_god_skeleton_form_dark_aura_eerie_lighting_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_063",
     "name": "Chaos",
     "prompt": "Primordial chaos, swirling cosmic void, dark energy, cinematic 4K",
     "category": "Concept God",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Primordial_chaos_swirling_cosmic_void_dark_energy_cinematic_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_064",
     "name": "Chronos",
     "prompt": "Time god Chronos, cosmic clock, glowing time energy, 4K",
     "category": "Concept God",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Time_god_Chronos_cosmic_clock_glowing_time_energy_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_065",
     "name": "Nyx",
     "prompt": "Nyx goddess of night, dark sky aura, stars glowing, cinematic 4K",
     "category": "Concept God",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Nyx_goddess_of_night_dark_sky_aura_stars_glowing_cinematic_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_066",
     "name": "Erebus",
     "prompt": "Erebus darkness deity, shadow aura, deep void background, 4K",
     "category": "Concept God",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Erebus_darkness_deity_shadow_aura_deep_void_background_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_067",
     "name": "Gaia",
     "prompt": "Gaia earth goddess, nature energy, glowing green aura, 4K",
     "category": "Concept God",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Gaia_earth_goddess_nature_energy_glowing_green_aura_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_068",
     "name": "Hel",
     "prompt": "Hel underworld goddess, half dark half alive form, eerie aura, 4K",
     "category": "Norse",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Hel_underworld_goddess_half_dark_half_alive_form_eerie_aura_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_069",
     "name": "Baldr",
     "prompt": "Baldr god of light, glowing radiant aura, peaceful energy, 4K",
     "category": "Norse",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Baldr_god_of_light_glowing_radiant_aura_peaceful_energy_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_070",
     "name": "Set",
     "prompt": "Set chaos god, desert storm, dark aura, intense cinematic 4K",
     "category": "Egyptian",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Set_chaos_god_desert_storm_dark_aura_intense_cinematic_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_071",
     "name": "Sekhmet",
     "prompt": "Sekhmet lion goddess, fire aura, glowing eyes, intense power, 4K",
     "category": "Egyptian",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Sekhmet_lion_goddess_fire_aura_glowing_eyes_intense_power_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_072",
     "name": "Bhairava",
     "prompt": "Bhairava fierce Shiva form, dark aura, skull garland, glowing eyes, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Bhairava_fierce_Shiva_form_dark_aura_skull_garland_glowing_eyes_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_073",
     "name": "Veerabhadra",
     "prompt": "Veerabhadra warrior form, rage aura, battlefield, cinematic 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Veerabhadra_warrior_form_rage_aura_battlefield_cinematic_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_074",
     "name": "Bagalamukhi",
     "prompt": "Bagalamukhi golden aura, mystical power, divine glow, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Bagalamukhi_golden_aura_mystical_power_divine_glow_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_075",
     "name": "Dhumavati",
     "prompt": "Dhumavati dark goddess, void aura, eerie atmosphere, cinematic 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Dhumavati_dark_goddess_void_aura_eerie_atmosphere_cinematic_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_076",
     "name": "Ayyappa",
     "prompt": "Ayyappa sitting in meditative pose, glowing aura, temple background, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Ayyappa_sitting_in_meditative_pose_glowing_aura_temple_background_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_077",
     "name": "Dattatreya",
     "prompt": "Dattatreya with three heads, divine aura, spiritual background, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Dattatreya_with_three_heads_divine_aura_spiritual_background_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_078",
     "name": "Ashwini Kumaras",
     "prompt": "Twin gods glowing aura, divine healing energy, celestial background, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Twin_gods_glowing_aura_divine_healing_energy_celestial_background_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_079",
     "name": "Mahishasura Mardini",
     "prompt": "Durga slaying demon, intense battle, glowing aura, cinematic 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Durga_slaying_demon_intense_battle_glowing_aura_cinematic_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_080",
     "name": "Chandika",
     "prompt": "Chandika fierce goddess, fire aura, rage expression, epic cinematic 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Chandika_fierce_goddess_fire_aura_rage_expression_epic_cinematic_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_081",
     "name": "Shiva",
     "prompt": "Candid photo, Lord Shiva meditating on a rock, Ganges river background, early morning soft light, film grain, realistic blue skin tone, bokeh, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Candid_photo_Lord_Shiva_meditating_on_a_rock_Ganges_river_background_early_morning_soft_light_film_grain_realistic_blue_skin_tone_bokeh_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_082",
     "name": "Shiva",
-    "prompt": "Close-up cinematic shot, Shiva's face, glowing third eye, intense expression, detailed rudraksha beads, water droplets in matted hair, smoky atmosphere, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Closeup cinematic shot, Shivas face, glowing third eye, intense expression, detailed rudraksha beads, water droplets in matted hair, smoky atmosphere, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Close-up_cinematic_shot_Shiva's_face_glowing_third_eye_intense_expression_detailed_rudraksha_beads_water_droplets_in_matted_hair_smoky_atmosphere_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_083",
     "name": "Vishnu",
-    "prompt": "Lord Vishnu standing on calm ocean waves, holding a realistic conch and chakra, gentle divine glow, soft pastel sunset clouds, hyper-detailed jewelry, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Lord Vishnu standing on calm ocean waves, holding a realistic conch and chakra, gentle divine glow, soft pastel sunset clouds, hyperdetailed jewelry, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Lord_Vishnu_standing_on_calm_ocean_waves_holding_a_realistic_conch_and_chakra_gentle_divine_glow_soft_pastel_sunset_clouds_hyper-detailed_jewelry_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_084",
     "name": "Vishnu",
     "prompt": "A vertical wallpaper, Vishnu reclining on Sheshanaga, deep blue cosmic water, subtle lighting illuminating his form, intricate snake scale textures, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/A_vertical_wallpaper_Vishnu_reclining_on_Sheshanaga_deep_blue_cosmic_water_subtle_lighting_illuminating_his_form_intricate_snake_scale_textures_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_085",
     "name": "Brahma",
-    "prompt": "Lord Brahma sitting on a massive, realistic lotus flower, four heads looking in different directions, holding Vedas, soft golden hour sunlight, peaceful forest background, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Lord Brahma sitting on a massive, realistic lotus flower, four heads looking in different directions, holding Vedas, soft golden hour sunlight, peaceful forest background, calm expression, peaceful divine aura, cinematic lighting,",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Lord_Brahma_sitting_on_a_massive_realistic_lotus_flower_four_heads_looking_in_different_directions_holding_Vedas_soft_golden_hour_sunlight_peaceful_forest_background_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_086",
     "name": "Brahma",
     "prompt": "Medium shot, Brahma creating life, glowing energy particles forming birds and plants, detailed white beard texture, ancient Indian temple architecture background, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Medium_shot_Brahma_creating_life_glowing_energy_particles_forming_birds_and_plants_detailed_white_beard_texture_ancient_Indian_temple_architecture_background_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_087",
     "name": "Krishna",
     "prompt": "A snapshot, young Krishna playing flute under a Banyan tree, peacock feather in hair, authentic rustic Vrindavan village setting, dappled sunlight, dust motes, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/A_snapshot_young_Krishna_playing_flute_under_a_Banyan_tree_peacock_feather_in_hair_authentic_rustic_Vrindavan_village_setting_dappled_sunlight_dust_motes_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_088",
     "name": "Krishna",
-    "prompt": "Cinematic portrait, Krishna's smiling face, dark blue skin, detailed jewelry, soft backlighting creating a gentle aura, vertical orientation for phone screen, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Cinematic portrait, Krishnas smiling face, dark blue skin, detailed jewelry, soft backlighting creating a gentle aura, vertical orientation for phone screen, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Cinematic_portrait_Krishna's_smiling_face_dark_blue_skin_detailed_jewelry_soft_backlighting_creating_a_gentle_aura_vertical_orientation_for_phone_screen_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_089",
     "name": "Rama",
     "prompt": "Lord Rama holding a realistic wooden bow, standing on a rocky hill, looking determined, epic sunset sky with orange and purple hues, cinematic wide shot, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Lord_Rama_holding_a_realistic_wooden_bow_standing_on_a_rocky_hill_looking_determined_epic_sunset_sky_with_orange_and_purple_hues_cinematic_wide_shot_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_090",
     "name": "Rama",
     "prompt": "Rama in royal attire, walking through a palace corridor, soft light filtering through carved windows, realistic fabric textures, serene and powerful presence, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Rama_in_royal_attire_walking_through_a_palace_corridor_soft_light_filtering_through_carved_windows_realistic_fabric_textures_serene_and_powerful_presence_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_091",
     "name": "Ganesha",
     "prompt": "A photo, Ganesha idol carved from stone, placed in a lush garden, covered in real marigold garlands, natural daylight, moss and water details, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/A_photo_Ganesha_idol_carved_from_stone_placed_in_a_lush_garden_covered_in_real_marigold_garlands_natural_daylight_moss_and_water_details_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_092",
     "name": "Ganesha",
     "prompt": "Modern artistic interpretation, Ganesha sitting on a minimalist throne, soft neon purple and blue backlighting, realistic trunk texture, stylized yet grounded, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Modern_artistic_interpretation_Ganesha_sitting_on_a_minimalist_throne_soft_neon_purple_and_blue_backlighting_realistic_trunk_texture_stylized_yet_grounded_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_093",
     "name": "Kali",
-    "prompt": "portrait, Goddess Kali, dark skin, -red tongue out, garland of realistic s, field background, smoky, dramatic lighting, intense red aura, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "portrait, Goddess Kali, dark skin, red tongue out, garland of realistic s, field background, smoky, dramatic lighting, intense red aura, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/portrait_Goddess_Kali_dark_skin_-red_tongue_out_garland_of_realistic_s_field_background_smoky_dramatic_lighting_intense_red_aura_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_094",
     "name": "Kali",
     "prompt": "Kali dancing in a circle of fire, dynamic pose, dishevelled hair, holding a , sparks flying, dark and raw atmosphere, high contrast photo, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Kali_dancing_in_a_circle_of_fire_dynamic_pose_dishevelled_hair_holding_a__sparks_flying_dark_and_raw_atmosphere_high_contrast_photo_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_095",
     "name": "Durga",
     "prompt": "Wide angle shot, Goddess Durga riding a realistic lion, multiple arms holding detailed s, in the background, dust clouds, golden armor reflecting light, epic scale, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Wide_angle_shot_Goddess_Durga_riding_a_realistic_lion_multiple_arms_holding_detailed_s_in_the_background_dust_clouds_golden_armor_reflecting_light_epic_scale_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_096",
     "name": "Durga",
-    "prompt": "Close-up on Durga's face during puja, serene yet powerful, traditional red saree, intense eyes, soft candlelight glow, rich colors, authentic Indian aesthetic, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Closeup on Durgas face during puja, serene yet powerful, traditional red saree, intense eyes, soft candlelight glow, rich colors, authentic Indian aesthetic, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Close-up_on_Durga's_face_during_puja_serene_yet_powerful_traditional_red_saree_intense_eyes_soft_candlelight_glow_rich_colors_authentic_Indian_aesthetic_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_097",
     "name": "Lakshmi",
-    "prompt": "Goddess Lakshmi sitting on a pink lotus in a calm pond, gold coins spilling from her hand into a pot, soft m light, realistic water reflections, abundant and peaceful, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Goddess Lakshmi sitting on a pink lotus in a calm pond, gold coins spilling from her hand into a pot, soft m light, realistic water reflections, abundant and peaceful, calm expression, peaceful divine aura, cinematic lighting, hig",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Goddess_Lakshmi_sitting_on_a_pink_lotus_in_a_calm_pond_gold_coins_spilling_from_her_hand_into_a_pot_soft_m_light_realistic_water_reflections_abundant_and_peaceful_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_098",
     "name": "Lakshmi",
     "prompt": "Portrait, Lakshmi in a rich gold saree, holding a lotus, m light emanating from behind, detailed traditional jewelry, elegant and prosperous vibe, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Portrait_Lakshmi_in_a_rich_gold_saree_holding_a_lotus_m_light_emanating_from_behind_detailed_traditional_jewelry_elegant_and_prosperous_vibe_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_099",
     "name": "Saraswati",
     "prompt": "Goddess Saraswati playing a realistic Veena, sitting on a white rock, white swan nearby, flowing white saree, soft natural light in a peaceful garden, bokeh, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Goddess_Saraswati_playing_a_realistic_Veena_sitting_on_a_white_rock_white_swan_nearby_flowing_white_saree_soft_natural_light_in_a_peaceful_garden_bokeh_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_100",
     "name": "Saraswati",
-    "prompt": "Close-up, Saraswati's hands on the Veena, detailed carving, string vibrations, soft glow, focus on the instrument and hands, serene musical atmosphere, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Closeup, Saraswatis hands on the Veena, detailed carving, string vibrations, soft glow, focus on the instrument and hands, serene musical atmosphere, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Close-up_Saraswati's_hands_on_the_Veena_detailed_carving_string_vibrations_soft_glow_focus_on_the_instrument_and_hands_serene_musical_atmosphere_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_101",
     "name": "Hanuman",
     "prompt": "Cinematic shot, Hanuman flying through clouds, carrying a massive, realistic mountain, muscular physique, golden aura, sunrise lighting, epic proportions, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Cinematic_shot_Hanuman_flying_through_clouds_carrying_a_massive_realistic_mountain_muscular_physique_golden_aura_sunrise_lighting_epic_proportions_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_102",
     "name": "Hanuman",
-    "prompt": "Hanuman kneeling in devotion, hands folded, Rama's name subtly glowing on his chest, soft lighting, detailed fur and clothing texture, humble and powerful, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Hanuman kneeling in devotion, hands folded, Ramas name subtly glowing on his chest, soft lighting, detailed fur and clothing texture, humble and powerful, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Hanuman_kneeling_in_devotion_hands_folded_Rama's_name_subtly_glowing_on_his_chest_soft_lighting_detailed_fur_and_clothing_texture_humble_and_powerful_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_103",
     "name": "Kartikeya",
     "prompt": "Lord Kartikeya riding a magnificent, realistic peacock, rior pose with a detailed spear, golden armor, dramatic sky background, heroic and divine, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Lord_Kartikeya_riding_a_magnificent_realistic_peacock_rior_pose_with_a_detailed_spear_golden_armor_dramatic_sky_background_heroic_and_divine_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_104",
     "name": "Kartikeya",
-    "prompt": "Portrait, Kartikeya's face, youthful yet strong, traditional helmet, soft lighting highlighting features, realistic skin texture, vertical wallpaper format, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Portrait, Kartikeyas face, youthful yet strong, traditional helmet, soft lighting highlighting features, realistic skin texture, vertical wallpaper format, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Portrait_Kartikeya's_face_youthful_yet_strong_traditional_helmet_soft_lighting_highlighting_features_realistic_skin_texture_vertical_wallpaper_format_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_105",
     "name": "Parvati",
     "prompt": "Goddess Parvati standing in the Himalayas, detailed traditional mountain clothing, soft snow falling, realistic face, gentle and elegant, cinematic lighting, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Goddess_Parvati_standing_in_the_Himalayas_detailed_traditional_mountain_clothing_soft_snow_falling_realistic_face_gentle_and_elegant_cinematic_lighting_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_106",
     "name": "Parvati",
     "prompt": "Parvati in a meditative pose next to a Shiva Lingam, decorated with flowers, soft forest light, peaceful expression, authentic and spiritual scene, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Parvati_in_a_meditative_pose_next_to_a_Shiva_Lingam_decorated_with_flowers_soft_forest_light_peaceful_expression_authentic_and_spiritual_scene_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_107",
     "name": "Nataraja",
     "prompt": "Lord Shiva as Nataraja, dancing the Tandava within a ring of flames, dynamic motion blur, sparks flying, dramatic fire lighting, detailed bronze sculpture aesthetic, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Lord_Shiva_as_Nataraja_dancing_the_Tandava_within_a_ring_of_flames_dynamic_motion_blur_sparks_flying_dramatic_fire_lighting_detailed_bronze_sculpture_aesthetic_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_108",
     "name": "Nataraja",
-    "prompt": "Close-up on Nataraja's face and upper body during dance, intense expression, flying hair, fiery background, focus on movement and energy, raw and powerful, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Closeup on Natarajas face and upper body during dance, intense expression, flying hair, fiery background, focus on movement and energy, raw and powerful, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Close-up_on_Nataraja's_face_and_upper_body_during_dance_intense_expression_flying_hair_fiery_background_focus_on_movement_and_energy_raw_and_powerful_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_109",
     "name": "Ardhanarishvara",
-    "prompt": "The half-Shiva, half-Parvati form, balanced vertical split, right side blue skin with rudraksha, left side fair skin with traditional jewelry, soft cosmic background, divine harmony, calm expression, peaceful divine aura, cinemati",
+    "prompt": "The halfShiva, halfParvati form, balanced vertical split, right side blue skin with rudraksha, left side fair skin with traditional jewelry, soft cosmic background, divine harmony, calm expression, peaceful divine aura, cinemati",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/The_half-Shiva_half-Parvati_form_balanced_vertical_split_right_side_blue_skin_with_rudraksha_left_side_fair_skin_with_traditional_jewelry_soft_cosmic_background_divine_harmony_calm_expression_peaceful_divine_aura_cinemati.webp"
+    "type": "image"
   },
   {
     "id": "img_110",
     "name": "Ardhanarishvara",
-    "prompt": "Portrait, Ardhanarishvara's face, meticulous detail showing the two halves blended, soft lighting highlighting the contrast, spiritual and artistic, phone wallpaper format, calm expression, peaceful divine aura, cinematic lighting",
+    "prompt": "Portrait, Ardhanarishvaras face, meticulous detail showing the two halves blended, soft lighting highlighting the contrast, spiritual and artistic, phone wallpaper format, calm expression, peaceful divine aura, cinematic lighting",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Portrait_Ardhanarishvara's_face_meticulous_detail_showing_the_two_halves_blended_soft_lighting_highlighting_the_contrast_spiritual_and_artistic_phone_wallpaper_format_calm_expression_peaceful_divine_aura_cinematic_lighting.webp"
+    "type": "image"
   },
   {
     "id": "img_111",
     "name": "Matsya",
-    "prompt": "The Matsya avatar, a giant, realistic fish emerging from stormy ocean waves, saving a boat, dramatic lightning, dark and powerful cinematic lighting, epic water effects, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "The Matsya avatar, a giant, realistic fish emerging from stormy ocean waves, saving a boat, dramatic lightning, dark and powerful cinematic lighting, epic water effects, calm expression, peaceful divine aura, cinematic lighting, h",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/The_Matsya_avatar_a_giant_realistic_fish_emerging_from_stormy_ocean_waves_saving_a_boat_dramatic_lightning_dark_and_powerful_cinematic_lighting_epic_water_effects_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_112",
     "name": "Matsya",
     "prompt": "Matsya swimming deep underwater, glowing blue light surrounding it, detailed fish scales, ancient city ruins in the background, mysterious and divine atmosphere, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Matsya_swimming_deep_underwater_glowing_blue_light_surrounding_it_detailed_fish_scales_ancient_city_ruins_in_the_background_mysterious_and_divine_atmosphere_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_113",
     "name": "Kurma",
-    "prompt": "The Kurma avatar, a colossal, realistic tortoise supporting a swirling mountain on its back in a cosmic ocean, churning energy, stars and nebulae background, epic scale, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "The Kurma avatar, a colossal, realistic tortoise supporting a swirling mountain on its back in a cosmic ocean, churning energy, stars and nebulae background, epic scale, calm expression, peaceful divine aura, cinematic lighting, h",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/The_Kurma_avatar_a_colossal_realistic_tortoise_supporting_a_swirling_mountain_on_its_back_in_a_cosmic_ocean_churning_energy_stars_and_nebulae_background_epic_scale_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_114",
     "name": "Kurma",
-    "prompt": "Close-up on Kurma's face underwater, ancient and wise eyes, detailed shell texture, soft blue lighting filtering from above, mysterious and profound, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Closeup on Kurmas face underwater, ancient and wise eyes, detailed shell texture, soft blue lighting filtering from above, mysterious and profound, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Close-up_on_Kurma's_face_underwater_ancient_and_wise_eyes_detailed_shell_texture_soft_blue_lighting_filtering_from_above_mysterious_and_profound_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_115",
     "name": "Varaha",
-    "prompt": "The Varaha avatar, a powerful boar-headed figure, lifting a realistic Earth globe from a muddy ocean, tusks holding the planet, dramatic sunset lighting, muddy and wet textures, calm expression, peaceful divine aura, cinematic lig",
+    "prompt": "The Varaha avatar, a powerful boarheaded figure, lifting a realistic Earth globe from a muddy ocean, tusks holding the planet, dramatic sunset lighting, muddy and wet textures, calm expression, peaceful divine aura, cinematic lig",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/The_Varaha_avatar_a_powerful_boar-headed_figure_lifting_a_realistic_Earth_globe_from_a_muddy_ocean_tusks_holding_the_planet_dramatic_sunset_lighting_muddy_and_wet_textures_calm_expression_peaceful_divine_aura_cinematic_lig.webp"
+    "type": "image"
   },
   {
     "id": "img_116",
     "name": "Varaha",
     "prompt": "Wide shot, Varaha running on the ocean floor, holding Earth, cosmic light streaking through the dark water, dynamic pose, powerful and heroic energy, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Wide_shot_Varaha_running_on_the_ocean_floor_holding_Earth_cosmic_light_streaking_through_the_dark_water_dynamic_pose_powerful_and_heroic_energy_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_117",
     "name": "Narasimha",
-    "prompt": "The Narasimha avatar, a lion-headed figure, ing through a pillar, glowing intense red eyes, sharp realistic teeth and claws, dramatic fire and dust, dark and scene, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "The Narasimha avatar, a lionheaded figure, ing through a pillar, glowing intense red eyes, sharp realistic teeth and claws, dramatic fire and dust, dark and scene, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/The_Narasimha_avatar_a_lion-headed_figure_ing_through_a_pillar_glowing_intense_red_eyes_sharp_realistic_teeth_and_claws_dramatic_fire_and_dust_dark_and_scene_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_118",
     "name": "Narasimha",
-    "prompt": "Portrait, Narasimha's face, detailed lion fur, intense expression, soft backlighting creating a frightening yet divine aura, dark background, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Portrait, Narasimhas face, detailed lion fur, intense expression, soft backlighting creating a frightening yet divine aura, dark background, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Portrait_Narasimha's_face_detailed_lion_fur_intense_expression_soft_backlighting_creating_a_frightening_yet_divine_aura_dark_background_phone_wallpaper_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_119",
     "name": "Vamana",
-    "prompt": "The Vamana avatar, as a small Brahmin boy, holding an umbrella, stepping over a massive king's head, glowing footprints, soft and humble light, intricate traditional clothing, calm expression, peaceful divine aura, cinematic light",
+    "prompt": "The Vamana avatar, as a small Brahmin boy, holding an umbrella, stepping over a massive kings head, glowing footprints, soft and humble light, intricate traditional clothing, calm expression, peaceful divine aura, cinematic light",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/The_Vamana_avatar_as_a_small_Brahmin_boy_holding_an_umbrella_stepping_over_a_massive_king's_head_glowing_footprints_soft_and_humble_light_intricate_traditional_clothing_calm_expression_peaceful_divine_aura_cinematic_light.webp"
+    "type": "image"
   },
   {
     "id": "img_120",
     "name": "Vamana",
-    "prompt": "Vamana transforming into a giant, one foot on Earth, another in the sky, clouds swirling around his leg, cosmic light, dynamic and awe-inspiring, epic scale, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Vamana transforming into a giant, one foot on Earth, another in the sky, clouds swirling around his leg, cosmic light, dynamic and aweinspiring, epic scale, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Vamana_transforming_into_a_giant_one_foot_on_Earth_another_in_the_sky_clouds_swirling_around_his_leg_cosmic_light_dynamic_and_awe-inspiring_epic_scale_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_121",
     "name": "Parashurama",
-    "prompt": "Parashurama holding a realistic, weathered axe, standing on a field, rugged rior appearance, detailed armor and clothing, stormy background, gritty and realistic photo, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Parashurama holding a realistic, weathered axe, standing on a field, rugged rior appearance, detailed armor and clothing, stormy background, gritty and realistic photo, calm expression, peaceful divine aura, cinematic lighting, hi",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Parashurama_holding_a_realistic_weathered_axe_standing_on_a_field_rugged_rior_appearance_detailed_armor_and_clothing_stormy_background_gritty_and_realistic_photo_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_122",
     "name": "Parashurama",
-    "prompt": "Portrait, Parashurama's intense eyes, face covered in dust, axe blade reflecting a hint of light, dark and moody atmosphere, powerful and resolute presence, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Portrait, Parashuramas intense eyes, face covered in dust, axe blade reflecting a hint of light, dark and moody atmosphere, powerful and resolute presence, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Portrait_Parashurama's_intense_eyes_face_covered_in_dust_axe_blade_reflecting_a_hint_of_light_dark_and_moody_atmosphere_powerful_and_resolute_presence_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_123",
     "name": "Buddha",
     "prompt": "Buddha meditating under a realistic Bodhi tree, serene face, soft golden hour light filtering through leaves, realistic monk robes, peaceful forest background, bokeh, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Buddha_meditating_under_a_realistic_Bodhi_tree_serene_face_soft_golden_hour_light_filtering_through_leaves_realistic_monk_robes_peaceful_forest_background_bokeh_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_124",
     "name": "Buddha",
-    "prompt": "Close-up, Buddha's hands in Dhyana mudra, soft light, detailed skin texture, peaceful and calm atmosphere, minimalist background, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Closeup, Buddhas hands in Dhyana mudra, soft light, detailed skin texture, peaceful and calm atmosphere, minimalist background, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Close-up_Buddha's_hands_in_Dhyana_mudra_soft_light_detailed_skin_texture_peaceful_and_calm_atmosphere_minimalist_background_phone_wallpaper_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_125",
     "name": "Kalki",
     "prompt": "Kalki riding a majestic, realistic white horse, holding a flaming sword, apocalyptic background with dark clouds and distant fires, dramatic cinematic lighting, heroic pose, calm expression, peaceful divine aura, cinematic lightin",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Kalki_riding_a_majestic_realistic_white_horse_holding_a_flaming_sword_apocalyptic_background_with_dark_clouds_and_distant_fires_dramatic_cinematic_lighting_heroic_pose_calm_expression_peaceful_divine_aura_cinematic_lightin.webp"
+    "type": "image"
   },
   {
     "id": "img_126",
     "name": "Kalki",
-    "prompt": "Portrait, Kalki's face, determined expression, silver armor with intricate details, soft blue backlighting, dark and intense atmosphere, vertical format, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Portrait, Kalkis face, determined expression, silver armor with intricate details, soft blue backlighting, dark and intense atmosphere, vertical format, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Portrait_Kalki's_face_determined_expression_silver_armor_with_intricate_details_soft_blue_backlighting_dark_and_intense_atmosphere_vertical_format_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_127",
     "name": "Kubera",
     "prompt": "Kubera sitting on a heap of realistic gold coins and jewels, holding a money pot, rich and detailed clothing, soft m lighting, opulent and prosperous vibe, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Kubera_sitting_on_a_heap_of_realistic_gold_coins_and_jewels_holding_a_money_pot_rich_and_detailed_clothing_soft_m_lighting_opulent_and_prosperous_vibe_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_128",
     "name": "Kubera",
-    "prompt": "Kubera's face, plump and smiling, surrounded by gold artifacts, detailed mustache and jewelry, m light, wealthy and generous appearance, vertical wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Kuberas face, plump and smiling, surrounded by gold artifacts, detailed mustache and jewelry, m light, wealthy and generous appearance, vertical wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Kubera's_face_plump_and_smiling_surrounded_by_gold_artifacts_detailed_mustache_and_jewelry_m_light_wealthy_and_generous_appearance_vertical_wallpaper_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_129",
     "name": "Kamadeva",
     "prompt": "Kamadeva with a bow made of sugarcane and arrows of flowers, shooting tods a couple, soft romantic lighting, garden background, realistic flowers and fabric, elegant and charming, calm expression, peaceful divine aura, cinematic l",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Kamadeva_with_a_bow_made_of_sugarcane_and_arrows_of_flowers_shooting_tods_a_couple_soft_romantic_lighting_garden_background_realistic_flowers_and_fabric_elegant_and_charming_calm_expression_peaceful_divine_aura_cinematic_l.webp"
+    "type": "image"
   },
   {
     "id": "img_130",
     "name": "Kamadeva",
-    "prompt": "Kamadeva's face, handsome and smiling, holding a flower arrow, soft glow, bokeh of light and flowers in the background, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Kamadevas face, handsome and smiling, holding a flower arrow, soft glow, bokeh of light and flowers in the background, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Kamadeva's_face_handsome_and_smiling_holding_a_flower_arrow_soft_glow_bokeh_of_light_and_flowers_in_the_background_phone_wallpaper_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_131",
     "name": "Rati",
     "prompt": "Goddess Rati, beautiful and elegant, sitting in a flower garden, soft light highlighting her face, realistic fabric and jewelry, peaceful and charming atmosphere, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Goddess_Rati_beautiful_and_elegant_sitting_in_a_flower_garden_soft_light_highlighting_her_face_realistic_fabric_and_jewelry_peaceful_and_charming_atmosphere_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_132",
     "name": "Rati",
     "prompt": "Rati looking at a mirror, smiling, detailed reflection, soft lighting, traditional and authentic indian aesthetic, vertical wallpaper format, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Rati_looking_at_a_mirror_smiling_detailed_reflection_soft_lighting_traditional_and_authentic_indian_aesthetic_vertical_wallpaper_format_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_133",
     "name": "Shani",
     "prompt": "Shani Dev sitting on a realistic crow, dark complexion, powerful and stern expression, iron armor, dark and moody background, dramatic lighting, high contrast, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Shani_Dev_sitting_on_a_realistic_crow_dark_complexion_powerful_and_stern_expression_iron_armor_dark_and_moody_background_dramatic_lighting_high_contrast_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_134",
     "name": "Shani",
-    "prompt": "Portrait, Shani's intense eyes, face in partial shadow, realistic skin texture, dark blue and black color palette, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Portrait, Shanis intense eyes, face in partial shadow, realistic skin texture, dark blue and black color palette, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Portrait_Shani's_intense_eyes_face_in_partial_shadow_realistic_skin_texture_dark_blue_and_black_color_palette_phone_wallpaper_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_135",
     "name": "Surya",
     "prompt": "Surya Dev riding a magnificent chariot drawn by seven realistic horses, blazing sun aura, intense golden light, dynamic and powerful cinematic lighting, desert background, calm expression, peaceful divine aura, cinematic lighting,",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Surya_Dev_riding_a_magnificent_chariot_drawn_by_seven_realistic_horses_blazing_sun_aura_intense_golden_light_dynamic_and_powerful_cinematic_lighting_desert_background_calm_expression_peaceful_divine_aura_cinematic_lighting.webp"
+    "type": "image"
   },
   {
     "id": "img_136",
     "name": "Surya",
-    "prompt": "Surya's face, radiating intense golden light, determined expression, intricate crown, sunrise background, bright and powerful, vertical wallpaper format, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Suryas face, radiating intense golden light, determined expression, intricate crown, sunrise background, bright and powerful, vertical wallpaper format, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Surya's_face_radiating_intense_golden_light_determined_expression_intricate_crown_sunrise_background_bright_and_powerful_vertical_wallpaper_format_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_137",
     "name": "Chandra",
     "prompt": "Chandra Dev sitting on a realistic antelope, soft silver moonlight aura, peaceful and calm atmosphere, night sky background, gentle lighting, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Chandra_Dev_sitting_on_a_realistic_antelope_soft_silver_moonlight_aura_peaceful_and_calm_atmosphere_night_sky_background_gentle_lighting_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_138",
     "name": "Chandra",
-    "prompt": "Chandra's face, serene and smiling, radiating soft white light, crescent moon in the background, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Chandras face, serene and smiling, radiating soft white light, crescent moon in the background, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Chandra's_face_serene_and_smiling_radiating_soft_white_light_crescent_moon_in_the_background_phone_wallpaper_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_139",
     "name": "Varuna",
     "prompt": "Varuna rising from deep ocean waves, holding a realistic trident, sea creature motifs on armor, dark blue and green color palette, cinematic lighting, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Varuna_rising_from_deep_ocean_waves_holding_a_realistic_trident_sea_creature_motifs_on_armor_dark_blue_and_green_color_palette_cinematic_lighting_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_140",
     "name": "Varuna",
-    "prompt": "Close-up, Varuna's face, wet hair and beard, intense sea-green eyes, mysterious and powerful, ocean background, vertical wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Closeup, Varunas face, wet hair and beard, intense seagreen eyes, mysterious and powerful, ocean background, vertical wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Close-up_Varuna's_face_wet_hair_and_beard_intense_sea-green_eyes_mysterious_and_powerful_ocean_background_vertical_wallpaper_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_141",
     "name": "Indra",
     "prompt": "Indra holding a realistic lightning bolt, riding a magnificent white elephant, storm clouds and lightning background, powerful and heroic cinematic lighting, golden armor, calm expression, peaceful divine aura, cinematic lighting,",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Indra_holding_a_realistic_lightning_bolt_riding_a_magnificent_white_elephant_storm_clouds_and_lightning_background_powerful_and_heroic_cinematic_lighting_golden_armor_calm_expression_peaceful_divine_aura_cinematic_lighting.webp"
+    "type": "image"
   },
   {
     "id": "img_142",
     "name": "Indra",
-    "prompt": "Portrait, Indra's face, determined expression, intricate crown, soft blue and gold backlighting, dramatic and powerful, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Portrait, Indras face, determined expression, intricate crown, soft blue and gold backlighting, dramatic and powerful, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Portrait_Indra's_face_determined_expression_intricate_crown_soft_blue_and_gold_backlighting_dramatic_and_powerful_phone_wallpaper_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_143",
     "name": "Agni",
     "prompt": "Agni standing within a , realistic fire, glowing red skin, dynamic flames surrounding him, intense heat and light, dramatic fire lighting, powerful presence, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Agni_standing_within_a__realistic_fire_glowing_red_skin_dynamic_flames_surrounding_him_intense_heat_and_light_dramatic_fire_lighting_powerful_presence_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_144",
     "name": "Agni",
-    "prompt": "Agni's face, eyes glowing with fire, flames rising from hair and beard, intense expression, dark and smoky background, high contrast, vertical wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Agnis face, eyes glowing with fire, flames rising from hair and beard, intense expression, dark and smoky background, high contrast, vertical wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Agni's_face_eyes_glowing_with_fire_flames_rising_from_hair_and_beard_intense_expression_dark_and_smoky_background_high_contrast_vertical_wallpaper_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_145",
     "name": "Vayu",
     "prompt": "Vayu in motion, swirling winds surrounding him, transparent flowing fabrics, dynamic pose, blurred wind effects, soft and powerful cinematic lighting, sky background, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Vayu_in_motion_swirling_winds_surrounding_him_transparent_flowing_fabrics_dynamic_pose_blurred_wind_effects_soft_and_powerful_cinematic_lighting_sky_background_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_146",
     "name": "Vayu",
-    "prompt": "Vayu's face, eyes closed in concentration, winds blowing hair, realistic skin texture, soft blue and white color palette, vertical wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Vayus face, eyes closed in concentration, winds blowing hair, realistic skin texture, soft blue and white color palette, vertical wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Vayu's_face_eyes_closed_in_concentration_winds_blowing_hair_realistic_skin_texture_soft_blue_and_white_color_palette_vertical_wallpaper_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_147",
     "name": "Yama",
     "prompt": "Yama god of , sitting on a realistic buffalo, , holding a noose, stern and powerful expression, dark and moody cinematic lighting, background, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Yama_god_of__sitting_on_a_realistic_buffalo__holding_a_noose_stern_and_powerful_expression_dark_and_moody_cinematic_lighting_background_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_148",
     "name": "Yama",
-    "prompt": "Yama's face, intense eyes, realistic skin texture, dark color palette, soft backlighting creating an eerie yet divine aura, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Yamas face, intense eyes, realistic skin texture, dark color palette, soft backlighting creating an eerie yet divine aura, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Yama's_face_intense_eyes_realistic_skin_texture_dark_color_palette_soft_backlighting_creating_an_eerie_yet_divine_aura_phone_wallpaper_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_149",
     "name": "Zeus",
     "prompt": "Zeus holding a realistic lightning bolt, standing on a cloud, majestic white beard, powerful and heroic cinematic lighting, stormy sky background, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Greek",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Zeus_holding_a_realistic_lightning_bolt_standing_on_a_cloud_majestic_white_beard_powerful_and_heroic_cinematic_lighting_stormy_sky_background_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_150",
     "name": "Zeus",
-    "prompt": "Portrait, Zeus's face, determined expression, intricate crown, soft blue and gold backlighting, dramatic and powerful, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Portrait, Zeuss face, determined expression, intricate crown, soft blue and gold backlighting, dramatic and powerful, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Greek",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Portrait_Zeus's_face_determined_expression_intricate_crown_soft_blue_and_gold_backlighting_dramatic_and_powerful_phone_wallpaper_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_151",
     "name": "Poseidon",
     "prompt": "Poseidon rising from deep ocean waves, holding a realistic trident, sea creature motifs on armor, dark blue and green color palette, cinematic lighting, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Greek",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Poseidon_rising_from_deep_ocean_waves_holding_a_realistic_trident_sea_creature_motifs_on_armor_dark_blue_and_green_color_palette_cinematic_lighting_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_152",
     "name": "Poseidon",
-    "prompt": "Close-up, Poseidon's face, wet hair and beard, intense sea-green eyes, mysterious and powerful, ocean background, vertical wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Closeup, Poseidons face, wet hair and beard, intense seagreen eyes, mysterious and powerful, ocean background, vertical wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Greek",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Close-up_Poseidon's_face_wet_hair_and_beard_intense_sea-green_eyes_mysterious_and_powerful_ocean_background_vertical_wallpaper_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_153",
     "name": "Hades",
     "prompt": "Hades in the , dark and moody cinematic lighting, shadow aura, glowing eyes, holding a realistic key, gloomy and intense atmosphere, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Greek",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Hades_in_the__dark_and_moody_cinematic_lighting_shadow_aura_glowing_eyes_holding_a_realistic_key_gloomy_and_intense_atmosphere_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_154",
     "name": "Hades",
-    "prompt": "Portrait, Hades's face, eyes glowing with dark energy, face in partial shadow, realistic skin texture, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Portrait, Hadess face, eyes glowing with dark energy, face in partial shadow, realistic skin texture, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Greek",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Portrait_Hades's_face_eyes_glowing_with_dark_energy_face_in_partial_shadow_realistic_skin_texture_phone_wallpaper_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_155",
     "name": "Athena",
     "prompt": "Athena rior goddess, wearing realistic armor and helmet, holding a shield and spear, standing on a rocky hill, powerful and heroic cinematic lighting, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Greek",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Athena_rior_goddess_wearing_realistic_armor_and_helmet_holding_a_shield_and_spear_standing_on_a_rocky_hill_powerful_and_heroic_cinematic_lighting_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_156",
     "name": "Athena",
-    "prompt": "Portrait, Athena's face, determined expression, intricate helmet, soft blue and gold backlighting, dramatic and powerful, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Portrait, Athenas face, determined expression, intricate helmet, soft blue and gold backlighting, dramatic and powerful, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Greek",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Portrait_Athena's_face_determined_expression_intricate_helmet_soft_blue_and_gold_backlighting_dramatic_and_powerful_phone_wallpaper_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_157",
     "name": "Apollo",
     "prompt": "Apollo sun god, holding a realistic lyre, radiating golden light, beautiful and elegant, sun aura, cinematic lighting, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Greek",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Apollo_sun_god_holding_a_realistic_lyre_radiating_golden_light_beautiful_and_elegant_sun_aura_cinematic_lighting_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_158",
     "name": "Apollo",
-    "prompt": "Apollo's face, radiating intense golden light, smiling and charming, sunrise background, bright and powerful, vertical wallpaper format, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Apollos face, radiating intense golden light, smiling and charming, sunrise background, bright and powerful, vertical wallpaper format, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Greek",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Apollo's_face_radiating_intense_golden_light_smiling_and_charming_sunrise_background_bright_and_powerful_vertical_wallpaper_format_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_159",
     "name": "Artemis",
     "prompt": "Artemis goddess of the hunt, holding a realistic bow and arrow, standing in a moonlight forest, glowing aura, cinematic lighting, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Greek",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Artemis_goddess_of_the_hunt_holding_a_realistic_bow_and_arrow_standing_in_a_moonlight_forest_glowing_aura_cinematic_lighting_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_160",
     "name": "Artemis",
-    "prompt": "Artemis's face, determined expression, realistic skin texture, soft moonlight backlighting, mysterious and powerful, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Artemiss face, determined expression, realistic skin texture, soft moonlight backlighting, mysterious and powerful, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Greek",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Artemis's_face_determined_expression_realistic_skin_texture_soft_moonlight_backlighting_mysterious_and_powerful_phone_wallpaper_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_161",
     "name": "Ares",
     "prompt": "Ares god of , in a field, holding a realistic spear and shield, fire and smoke background, dramatic and intense cinematic lighting, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Greek",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Ares_god_of__in_a_field_holding_a_realistic_spear_and_shield_fire_and_smoke_background_dramatic_and_intense_cinematic_lighting_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_162",
     "name": "Ares",
-    "prompt": "Ares's face, intense eyes reflecting fire, face covered in dust, dark color palette, powerful and resolute presence, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Aress face, intense eyes reflecting fire, face covered in dust, dark color palette, powerful and resolute presence, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Greek",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Ares's_face_intense_eyes_reflecting_fire_face_covered_in_dust_dark_color_palette_powerful_and_resolute_presence_phone_wallpaper_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_163",
     "name": "Hermes",
     "prompt": "Hermes with realistic winged sandals, speed motion blur, flowing fabric, dynamic pose, blurred wind effects, soft and powerful cinematic lighting, sky background, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Greek",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Hermes_with_realistic_winged_sandals_speed_motion_blur_flowing_fabric_dynamic_pose_blurred_wind_effects_soft_and_powerful_cinematic_lighting_sky_background_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_164",
     "name": "Hermes",
-    "prompt": "Hermes's face, youthful and smiling, realistic skin texture, soft blue and white color palette, vertical wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Hermess face, youthful and smiling, realistic skin texture, soft blue and white color palette, vertical wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Greek",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Hermes's_face_youthful_and_smiling_realistic_skin_texture_soft_blue_and_white_color_palette_vertical_wallpaper_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_165",
     "name": "Odin",
     "prompt": "Odin with realistic ravens, one eye glowing, dark mystical aura, cinematic lighting, holding a spear, dramatic and intense atmosphere, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Norse",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Odin_with_realistic_ravens_one_eye_glowing_dark_mystical_aura_cinematic_lighting_holding_a_spear_dramatic_and_intense_atmosphere_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_166",
     "name": "Odin",
-    "prompt": "Portrait, Odin's face, one eye glowing with mystical energy, determined expression, intricate helmet, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Portrait, Odins face, one eye glowing with mystical energy, determined expression, intricate helmet, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Norse",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Portrait_Odin's_face_one_eye_glowing_with_mystical_energy_determined_expression_intricate_helmet_phone_wallpaper_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_167",
     "name": "Thor",
     "prompt": "Thor holding a realistic hammer, in a lightning storm, powerful and heroic cinematic lighting, rain and wind effects, dramatic background, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Norse",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Thor_holding_a_realistic_hammer_in_a_lightning_storm_powerful_and_heroic_cinematic_lighting_rain_and_wind_effects_dramatic_background_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_168",
     "name": "Thor",
-    "prompt": "Portrait, Thor's face, determined expression, realistic skin texture, soft blue and gold backlighting, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Portrait, Thors face, determined expression, realistic skin texture, soft blue and gold backlighting, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Norse",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Portrait_Thor's_face_determined_expression_realistic_skin_texture_soft_blue_and_gold_backlighting_phone_wallpaper_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_169",
     "name": "Loki",
     "prompt": "Loki trickster god, with realistic illusion magic, green aura, dark and intense cinematic lighting, cunning expression, dramatic background, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Norse",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Loki_trickster_god_with_realistic_illusion_magic_green_aura_dark_and_intense_cinematic_lighting_cunning_expression_dramatic_background_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_170",
     "name": "Loki",
-    "prompt": "Portrait, Loki's face, cunning smile, realistic skin texture, soft green and black color palette, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Portrait, Lokis face, cunning smile, realistic skin texture, soft green and black color palette, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Norse",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Portrait_Loki's_face_cunning_smile_realistic_skin_texture_soft_green_and_black_color_palette_phone_wallpaper_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_171",
     "name": "Freya",
     "prompt": "Freya beautiful goddess, with realistic glowing aura, elegance and energy, cinematic lighting, detailed clothing and jewelry, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Norse",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Freya_beautiful_goddess_with_realistic_glowing_aura_elegance_and_energy_cinematic_lighting_detailed_clothing_and_jewelry_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_172",
     "name": "Freya",
-    "prompt": "Freya's face, radiating intense golden light, determined expression, intricate crown, sunrise background, vertical wallpaper format, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Freyas face, radiating intense golden light, determined expression, intricate crown, sunrise background, vertical wallpaper format, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Norse",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Freya's_face_radiating_intense_golden_light_determined_expression_intricate_crown_sunrise_background_vertical_wallpaper_format_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_173",
     "name": "Tyr",
     "prompt": "Tyr rior god, in a realistic stance, holding a spear and shield, powerful and heroic cinematic lighting, dramatic background, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Norse",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Tyr_rior_god_in_a_realistic_stance_holding_a_spear_and_shield_powerful_and_heroic_cinematic_lighting_dramatic_background_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_174",
     "name": "Tyr",
-    "prompt": "Tyr's face, determined expression, realistic skin texture, soft blue and gold backlighting, powerful and resolute presence, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Tyrs face, determined expression, realistic skin texture, soft blue and gold backlighting, powerful and resolute presence, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Norse",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Tyr's_face_determined_expression_realistic_skin_texture_soft_blue_and_gold_backlighting_powerful_and_resolute_presence_phone_wallpaper_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_175",
     "name": "Ra",
     "prompt": "Ra sun god, with a realistic falcon head, blazing sun aura, intense golden light, cinematic lighting, dramatic background, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Egyptian",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Ra_sun_god_with_a_realistic_falcon_head_blazing_sun_aura_intense_golden_light_cinematic_lighting_dramatic_background_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_176",
     "name": "Ra",
-    "prompt": "Ra's face, radiating intense golden light, smiling and charming, sunrise background, bright and powerful, vertical wallpaper format, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Ras face, radiating intense golden light, smiling and charming, sunrise background, bright and powerful, vertical wallpaper format, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Egyptian",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Ra's_face_radiating_intense_golden_light_smiling_and_charming_sunrise_background_bright_and_powerful_vertical_wallpaper_format_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_177",
     "name": "Anubis",
-    "prompt": "Anubis jackal-headed god, , glowing eyes, theme, holding a realistic staff, dramatic and intense cinematic lighting, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Anubis jackalheaded god, , glowing eyes, theme, holding a realistic staff, dramatic and intense cinematic lighting, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Egyptian",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Anubis_jackal-headed_god__glowing_eyes_theme_holding_a_realistic_staff_dramatic_and_intense_cinematic_lighting_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_178",
     "name": "Anubis",
-    "prompt": "Anubis's face, jackal head, eyes glowing with dark energy, face in partial shadow, realistic texture, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Anubiss face, jackal head, eyes glowing with dark energy, face in partial shadow, realistic texture, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Egyptian",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Anubis's_face_jackal_head_eyes_glowing_with_dark_energy_face_in_partial_shadow_realistic_texture_phone_wallpaper_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_179",
     "name": "Osiris",
     "prompt": "Osiris god of the afterlife, green aura, mystical background, holding realistic staff and crook, cinematic lighting, dramatic atmosphere, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Egyptian",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Osiris_god_of_the_afterlife_green_aura_mystical_background_holding_realistic_staff_and_crook_cinematic_lighting_dramatic_atmosphere_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_180",
     "name": "Osiris",
-    "prompt": "Portrait, Osiris's face, green skin, eyes glowing with mystical energy, determined expression, intricate crown, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Portrait, Osiriss face, green skin, eyes glowing with mystical energy, determined expression, intricate crown, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Egyptian",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Portrait_Osiris's_face_green_skin_eyes_glowing_with_mystical_energy_determined_expression_intricate_crown_phone_wallpaper_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_181",
     "name": "Isis",
     "prompt": "Isis goddess with realistic wings, glowing aura, divine feminine energy, detailed clothing and jewelry, cinematic lighting, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Egyptian",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Isis_goddess_with_realistic_wings_glowing_aura_divine_feminine_energy_detailed_clothing_and_jewelry_cinematic_lighting_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_182",
     "name": "Isis",
-    "prompt": "Isis's face, radiating intense golden light, determined expression, intricate crown, sunrise background, vertical wallpaper format, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Isiss face, radiating intense golden light, determined expression, intricate crown, sunrise background, vertical wallpaper format, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Egyptian",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Isis's_face_radiating_intense_golden_light_determined_expression_intricate_crown_sunrise_background_vertical_wallpaper_format_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_183",
     "name": "Horus",
     "prompt": "Horus falcon god, with realistic sky aura, glowing eyes, epic and powerful cinematic lighting, dramatic background, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Egyptian",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Horus_falcon_god_with_realistic_sky_aura_glowing_eyes_epic_and_powerful_cinematic_lighting_dramatic_background_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_184",
     "name": "Horus",
-    "prompt": "Horus's face, falcon head, radiating intense golden light, determined expression, bright and powerful, vertical wallpaper format, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Horuss face, falcon head, radiating intense golden light, determined expression, bright and powerful, vertical wallpaper format, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Egyptian",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Horus's_face_falcon_head_radiating_intense_golden_light_determined_expression_bright_and_powerful_vertical_wallpaper_format_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_185",
     "name": "Amaterasu",
     "prompt": "Amaterasu sun goddess, with realistic radiant light, divine glow, beautiful and elegant, cinematic lighting, detailed clothing and jewelry, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Japanese",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Amaterasu_sun_goddess_with_realistic_radiant_light_divine_glow_beautiful_and_elegant_cinematic_lighting_detailed_clothing_and_jewelry_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_186",
     "name": "Amaterasu",
-    "prompt": "Amaterasu's face, radiating intense golden light, determined expression, intricate crown, sunrise background, bright and powerful, vertical wallpaper format, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Amaterasus face, radiating intense golden light, determined expression, intricate crown, sunrise background, bright and powerful, vertical wallpaper format, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Japanese",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Amaterasu's_face_radiating_intense_golden_light_determined_expression_intricate_crown_sunrise_background_bright_and_powerful_vertical_wallpaper_format_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_187",
     "name": "Susanoo",
     "prompt": "Susanoo storm god, with realistic lightning and waves, powerful and heroic cinematic lighting, dynamic pose, blurred wind effects, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Japanese",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Susanoo_storm_god_with_realistic_lightning_and_waves_powerful_and_heroic_cinematic_lighting_dynamic_pose_blurred_wind_effects_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_188",
     "name": "Susanoo",
-    "prompt": "Susanoo's face, determined expression, realistic skin texture, soft blue and gold backlighting, powerful and resolute presence, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Susanoos face, determined expression, realistic skin texture, soft blue and gold backlighting, powerful and resolute presence, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Japanese",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Susanoo's_face_determined_expression_realistic_skin_texture_soft_blue_and_gold_backlighting_powerful_and_resolute_presence_phone_wallpaper_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_189",
     "name": "Tsukuyomi",
     "prompt": "Tsukuyomi moon god, with realistic night aura, soft silver light, peaceful and calm atmosphere, cinematic lighting, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Japanese",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Tsukuyomi_moon_god_with_realistic_night_aura_soft_silver_light_peaceful_and_calm_atmosphere_cinematic_lighting_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_190",
     "name": "Tsukuyomi",
-    "prompt": "Tsukuyomi's face, radiating soft white light, crescent moon in the background, serene and smiling, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Tsukuyomis face, radiating soft white light, crescent moon in the background, serene and smiling, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Japanese",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Tsukuyomi's_face_radiating_soft_white_light_crescent_moon_in_the_background_serene_and_smiling_phone_wallpaper_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_191",
     "name": "Jade Emperor",
     "prompt": "Jade Emperor royal throne, heavenly aura, divine light, beautiful and elegant, detailed clothing and jewelry, cinematic lighting, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Chinese",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Jade_Emperor_royal_throne_heavenly_aura_divine_light_beautiful_and_elegant_detailed_clothing_and_jewelry_cinematic_lighting_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_192",
     "name": "Jade Emperor",
-    "prompt": "Jade Emperor's face, radiating intense golden light, determined expression, intricate crown, bright and powerful, vertical wallpaper format, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Jade Emperors face, radiating intense golden light, determined expression, intricate crown, bright and powerful, vertical wallpaper format, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Chinese",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Jade_Emperor's_face_radiating_intense_golden_light_determined_expression_intricate_crown_bright_and_powerful_vertical_wallpaper_format_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_193",
     "name": "Guan Yu",
     "prompt": "Guan Yu rior god, wearing realistic armor, glowing aura, standing on a field, powerful and heroic cinematic lighting, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Chinese",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Guan_Yu_rior_god_wearing_realistic_armor_glowing_aura_standing_on_a_field_powerful_and_heroic_cinematic_lighting_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_194",
     "name": "Guan Yu",
-    "prompt": "Portrait, Guan Yu's face, determined expression, intricate helmet, soft blue and gold backlighting, dramatic and powerful, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Portrait, Guan Yus face, determined expression, intricate helmet, soft blue and gold backlighting, dramatic and powerful, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Chinese",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Portrait_Guan_Yu's_face_determined_expression_intricate_helmet_soft_blue_and_gold_backlighting_dramatic_and_powerful_phone_wallpaper_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_195",
     "name": "Quetzalcoatl",
     "prompt": "Feathered serpent god, with realistic vibrant colors, mystical aura, dynamic pose, blurred wind effects, cinematic lighting, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Aztec",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Feathered_serpent_god_with_realistic_vibrant_colors_mystical_aura_dynamic_pose_blurred_wind_effects_cinematic_lighting_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_196",
     "name": "Quetzalcoatl",
-    "prompt": "Quetzalcoatl's face, feathered serpent head, radiating intense golden light, determined expression, vertical wallpaper format, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Quetzalcoatls face, feathered serpent head, radiating intense golden light, determined expression, vertical wallpaper format, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Aztec",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Quetzalcoatl's_face_feathered_serpent_head_radiating_intense_golden_light_determined_expression_vertical_wallpaper_format_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_197",
     "name": "Tezcatlipoca",
     "prompt": "Tezcatlipoca night god, , glowing symbols, holding realistic staff, dark and intense cinematic lighting, mysterious background, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Aztec",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Tezcatlipoca_night_god__glowing_symbols_holding_realistic_staff_dark_and_intense_cinematic_lighting_mysterious_background_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_198",
     "name": "Tezcatlipoca",
-    "prompt": "Portrait, Tezcatlipoca's face, determined expression, intricate helmet, soft blue and black color palette, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Portrait, Tezcatlipocas face, determined expression, intricate helmet, soft blue and black color palette, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Aztec",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Portrait_Tezcatlipoca's_face_determined_expression_intricate_helmet_soft_blue_and_black_color_palette_phone_wallpaper_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_199",
     "name": "Inti",
     "prompt": "Inti sun god, with realistic radiant light, glowing golden aura, beautiful and elegant, cinematic lighting, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Inca",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Inti_sun_god_with_realistic_radiant_light_glowing_golden_aura_beautiful_and_elegant_cinematic_lighting_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_200",
     "name": "Inti",
-    "prompt": "Inti's face, radiating intense golden light, smiling and charming, sunrise background, bright and powerful, vertical wallpaper format, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Intis face, radiating intense golden light, smiling and charming, sunrise background, bright and powerful, vertical wallpaper format, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Inca",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Inti's_face_radiating_intense_golden_light_smiling_and_charming_sunrise_background_bright_and_powerful_vertical_wallpaper_format_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_201",
     "name": "Viracocha",
     "prompt": "Viracocha creator god, with realistic cosmic energy, glowing aura, divine light, epic and powerful cinematic lighting, dramatic background, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Inca",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Viracocha_creator_god_with_realistic_cosmic_energy_glowing_aura_divine_light_epic_and_powerful_cinematic_lighting_dramatic_background_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_202",
     "name": "Viracocha",
-    "prompt": "Portrait, Viracocha's face, determined expression, intricate crown, bright and powerful, vertical wallpaper format, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Portrait, Viracochas face, determined expression, intricate crown, bright and powerful, vertical wallpaper format, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Inca",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Portrait_Viracocha's_face_determined_expression_intricate_crown_bright_and_powerful_vertical_wallpaper_format_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_203",
     "name": "Ah Puch",
     "prompt": "Ah Puch god, skeleton form, , eerie lighting, theme, holding realistic staff, dramatic and intense cinematic lighting, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Mayan",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Ah_Puch_god_skeleton_form__eerie_lighting_theme_holding_realistic_staff_dramatic_and_intense_cinematic_lighting_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_204",
     "name": "Ah Puch",
-    "prompt": "Portrait, Ah Puch's face, skeleton head, eyes glowing with dark energy, face in partial shadow, realistic texture, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Portrait, Ah Puchs face, skeleton head, eyes glowing with dark energy, face in partial shadow, realistic texture, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Mayan",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Portrait_Ah_Puch's_face_skeleton_head_eyes_glowing_with_dark_energy_face_in_partial_shadow_realistic_texture_phone_wallpaper_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_205",
     "name": "Chaos",
     "prompt": "Primordial chaos, with realistic swirling cosmic void, dark energy, beautiful and elegant, cinematic lighting, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Concept God",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Primordial_chaos_with_realistic_swirling_cosmic_void_dark_energy_beautiful_and_elegant_cinematic_lighting_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_206",
     "name": "Chaos",
-    "prompt": "Portrait, Chaos's face, eyes glowing with dark energy, face in partial shadow, realistic texture, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Portrait, Chaoss face, eyes glowing with dark energy, face in partial shadow, realistic texture, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Concept God",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Portrait_Chaos's_face_eyes_glowing_with_dark_energy_face_in_partial_shadow_realistic_texture_phone_wallpaper_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_207",
     "name": "Chronos",
     "prompt": "Time god Chronos, with realistic cosmic clock, glowing time energy, cinematic lighting, detailed background, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Concept God",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Time_god_Chronos_with_realistic_cosmic_clock_glowing_time_energy_cinematic_lighting_detailed_background_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_208",
     "name": "Chronos",
-    "prompt": "Portrait, Chronos's face, determined expression, intricate helmet, soft blue and black color palette, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Portrait, Chronoss face, determined expression, intricate helmet, soft blue and black color palette, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Concept God",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Portrait_Chronos's_face_determined_expression_intricate_helmet_soft_blue_and_black_color_palette_phone_wallpaper_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_209",
     "name": "Nyx",
     "prompt": "Nyx goddess of night, with realistic dark sky aura, stars glowing, soft and powerful cinematic lighting, peaceful background, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Concept God",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Nyx_goddess_of_night_with_realistic_dark_sky_aura_stars_glowing_soft_and_powerful_cinematic_lighting_peaceful_background_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_210",
     "name": "Nyx",
-    "prompt": "Nyx's face, radiating soft white light, crescent moon in the background, serene and smiling, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Nyxs face, radiating soft white light, crescent moon in the background, serene and smiling, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Concept God",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Nyx's_face_radiating_soft_white_light_crescent_moon_in_the_background_serene_and_smiling_phone_wallpaper_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_211",
     "name": "Erebus",
     "prompt": "Erebus darkness deity, shadow aura, realistic deep void background, cinematic lighting, dramatic atmosphere, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Concept God",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Erebus_darkness_deity_shadow_aura_realistic_deep_void_background_cinematic_lighting_dramatic_atmosphere_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_212",
     "name": "Erebus",
-    "prompt": "Portrait, Erebus's face, eyes glowing with dark energy, face in partial shadow, realistic texture, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Portrait, Erebuss face, eyes glowing with dark energy, face in partial shadow, realistic texture, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Concept God",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Portrait_Erebus's_face_eyes_glowing_with_dark_energy_face_in_partial_shadow_realistic_texture_phone_wallpaper_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_213",
     "name": "Gaia",
     "prompt": "Gaia earth goddess, with realistic nature energy, glowing green aura, beautiful and elegant, cinematic lighting, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Concept God",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Gaia_earth_goddess_with_realistic_nature_energy_glowing_green_aura_beautiful_and_elegant_cinematic_lighting_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_214",
     "name": "Gaia",
-    "prompt": "Gaia's face, radiating intense green light, determined expression, detailed leaves and flowers in the background, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Gaias face, radiating intense green light, determined expression, detailed leaves and flowers in the background, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Concept God",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Gaia's_face_radiating_intense_green_light_determined_expression_detailed_leaves_and_flowers_in_the_background_phone_wallpaper_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_215",
     "name": "Hel",
     "prompt": "Hel goddess, half dark half alive form, eerie aura, detailed clothing and jewelry, cinematic lighting, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Norse",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Hel_goddess_half_dark_half_alive_form_eerie_aura_detailed_clothing_and_jewelry_cinematic_lighting_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_216",
     "name": "Hel",
-    "prompt": "Hel's face, half dark half alive form, determined expression, intricate crown, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Hels face, half dark half alive form, determined expression, intricate crown, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Norse",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Hel's_face_half_dark_half_alive_form_determined_expression_intricate_crown_phone_wallpaper_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_217",
     "name": "Baldr",
     "prompt": "Baldr god of light, with realistic glowing radiant aura, peaceful energy, beautiful and elegant, cinematic lighting, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Norse",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Baldr_god_of_light_with_realistic_glowing_radiant_aura_peaceful_energy_beautiful_and_elegant_cinematic_lighting_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_218",
     "name": "Baldr",
-    "prompt": "Baldr's face, radiating intense golden light, smiling and charming, sunrise background, bright and powerful, vertical wallpaper format, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Baldrs face, radiating intense golden light, smiling and charming, sunrise background, bright and powerful, vertical wallpaper format, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Norse",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Baldr's_face_radiating_intense_golden_light_smiling_and_charming_sunrise_background_bright_and_powerful_vertical_wallpaper_format_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_219",
     "name": "Set",
     "prompt": "Set chaos god, desert storm, , intense cinematic lighting, dramatic atmosphere, holding realistic staff, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Egyptian",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Set_chaos_god_desert_storm__intense_cinematic_lighting_dramatic_atmosphere_holding_realistic_staff_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_220",
     "name": "Set",
-    "prompt": "Set's face, determined expression, intricate helmet, soft blue and black color palette, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Sets face, determined expression, intricate helmet, soft blue and black color palette, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Egyptian",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Set's_face_determined_expression_intricate_helmet_soft_blue_and_black_color_palette_phone_wallpaper_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_221",
     "name": "Sekhmet",
     "prompt": "Sekhmet lion goddess, fire aura, glowing eyes, intense power, dramatic fire lighting, cinematic lighting, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Egyptian",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Sekhmet_lion_goddess_fire_aura_glowing_eyes_intense_power_dramatic_fire_lighting_cinematic_lighting_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_222",
     "name": "Sekhmet",
-    "prompt": "Sekhmet's face, lion head, eyes glowing with fire, intense expression, dark and smoky background, high contrast, vertical wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Sekhmets face, lion head, eyes glowing with fire, intense expression, dark and smoky background, high contrast, vertical wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Egyptian",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Sekhmet's_face_lion_head_eyes_glowing_with_fire_intense_expression_dark_and_smoky_background_high_contrast_vertical_wallpaper_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_223",
     "name": "Bhairava",
     "prompt": "Bhairava Shiva form, , garland, glowing eyes, intense cinematic lighting, holding realistic trident, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Bhairava_Shiva_form__garland_glowing_eyes_intense_cinematic_lighting_holding_realistic_trident_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_224",
     "name": "Bhairava",
-    "prompt": "Bhairava's face, intense eyes reflecting fire, face covered in dust, dark color palette, powerful and resolute presence, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Bhairavas face, intense eyes reflecting fire, face covered in dust, dark color palette, powerful and resolute presence, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Bhairava's_face_intense_eyes_reflecting_fire_face_covered_in_dust_dark_color_palette_powerful_and_resolute_presence_phone_wallpaper_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_225",
     "name": "Veerabhadra",
     "prompt": "Veerabhadra rior form, aura, field, holding realistic sword and shield, dynamic pose, blurred wind effects, cinematic lighting, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Veerabhadra_rior_form_aura_field_holding_realistic_sword_and_shield_dynamic_pose_blurred_wind_effects_cinematic_lighting_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_226",
     "name": "Veerabhadra",
-    "prompt": "Portrait, Veerabhadra's face, determined expression, intricate helmet, soft blue and gold backlighting, dramatic and powerful, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Portrait, Veerabhadras face, determined expression, intricate helmet, soft blue and gold backlighting, dramatic and powerful, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Portrait_Veerabhadra's_face_determined_expression_intricate_helmet_soft_blue_and_gold_backlighting_dramatic_and_powerful_phone_wallpaper_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_227",
     "name": "Bagalamukhi",
     "prompt": "Bagalamukhi golden aura, mystical power, divine glow, beautiful and elegant, cinematic lighting, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Bagalamukhi_golden_aura_mystical_power_divine_glow_beautiful_and_elegant_cinematic_lighting_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_228",
     "name": "Bagalamukhi",
-    "prompt": "Bagalamukhi's face, radiating intense golden light, determined expression, intricate crown, bright and powerful, vertical wallpaper format, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Bagalamukhis face, radiating intense golden light, determined expression, intricate crown, bright and powerful, vertical wallpaper format, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Bagalamukhi's_face_radiating_intense_golden_light_determined_expression_intricate_crown_bright_and_powerful_vertical_wallpaper_format_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_229",
     "name": "Dhumavati",
     "prompt": "Dhumavati dark goddess, void aura, eerie atmosphere, realistic deep void background, cinematic lighting, dramatic atmosphere, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Dhumavati_dark_goddess_void_aura_eerie_atmosphere_realistic_deep_void_background_cinematic_lighting_dramatic_atmosphere_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_230",
     "name": "Dhumavati",
-    "prompt": "Dhumavati's face, half dark half alive form, determined expression, intricate crown, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Dhumavatis face, half dark half alive form, determined expression, intricate crown, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Dhumavati's_face_half_dark_half_alive_form_determined_expression_intricate_crown_phone_wallpaper_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_231",
     "name": "Ayyappa",
     "prompt": "Ayyappa sitting in a meditative pose, glowing aura, temple background, beautiful and elegant, detailed clothing and jewelry, cinematic lighting, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Ayyappa_sitting_in_a_meditative_pose_glowing_aura_temple_background_beautiful_and_elegant_detailed_clothing_and_jewelry_cinematic_lighting_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_232",
     "name": "Ayyappa",
-    "prompt": "Portrait, Ayyappa's face, radiating intense golden light, determined expression, intricate crown, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Portrait, Ayyappas face, radiating intense golden light, determined expression, intricate crown, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Portrait_Ayyappa's_face_radiating_intense_golden_light_determined_expression_intricate_crown_phone_wallpaper_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_233",
     "name": "Dattatreya",
     "prompt": "Dattatreya with three heads, divine aura, realistic spiritual background, cinematic lighting, detailed background, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Dattatreya_with_three_heads_divine_aura_realistic_spiritual_background_cinematic_lighting_detailed_background_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_234",
     "name": "Dattatreya",
-    "prompt": "Portrait, Dattatreya's face, three heads, determined expression, intricate helmet, soft blue and black color palette, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Portrait, Dattatreyas face, three heads, determined expression, intricate helmet, soft blue and black color palette, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Portrait_Dattatreya's_face_three_heads_determined_expression_intricate_helmet_soft_blue_and_black_color_palette_phone_wallpaper_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_235",
     "name": "Ashwini Kumaras",
     "prompt": "Twin gods glowing aura, with realistic divine healing energy, beautiful and elegant, celestial background, cinematic lighting, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Twin_gods_glowing_aura_with_realistic_divine_healing_energy_beautiful_and_elegant_celestial_background_cinematic_lighting_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_236",
     "name": "Ashwini Kumaras",
-    "prompt": "Ashwini Kumaras's face, radiating intense golden light, determined expression, intricate crown, vertical wallpaper format, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Ashwini Kumarass face, radiating intense golden light, determined expression, intricate crown, vertical wallpaper format, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Ashwini_Kumaras's_face_radiating_intense_golden_light_determined_expression_intricate_crown_vertical_wallpaper_format_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_237",
     "name": "Mahishasura Mardini",
     "prompt": "Durga slaying , intense , glowing aura, dramatic and intense cinematic lighting, heroic pose, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Durga_slaying__intense__glowing_aura_dramatic_and_intense_cinematic_lighting_heroic_pose_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_238",
     "name": "Mahishasura Mardini",
-    "prompt": "Mahishasura Mardini's face, intense eyes reflecting fire, face covered in dust, powerful and resolute presence, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Mahishasura Mardinis face, intense eyes reflecting fire, face covered in dust, powerful and resolute presence, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Mahishasura_Mardini's_face_intense_eyes_reflecting_fire_face_covered_in_dust_powerful_and_resolute_presence_phone_wallpaper_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_239",
     "name": "Chandika",
     "prompt": "Chandika goddess, fire aura, expression, dramatic fire lighting, cinematic lighting, intense power, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Chandika_goddess_fire_aura_expression_dramatic_fire_lighting_cinematic_lighting_intense_power_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_240",
     "name": "Chandika",
-    "prompt": "Chandika's face, eyes glowing with fire, intense expression, dark and smoky background, high contrast, vertical wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
+    "prompt": "Chandikas face, eyes glowing with fire, intense expression, dark and smoky background, high contrast, vertical wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Chandika's_face_eyes_glowing_with_fire_intense_expression_dark_and_smoky_background_high_contrast_vertical_wallpaper_calm_expression_peaceful_divine_aura_cinematic_lighting_highly_detailed_4K.webp"
+    "type": "image"
   },
   {
     "id": "img_244",
     "name": "Hanuman",
-    "prompt": "Lord Hanuman upper body, intense devotional expression, glowing orange eyes reflecting Rama's name, muscular physique, golden mace in background, cinematic sunset lighting, mountain peaks, realistic fur and skin texture, 8K, verti",
+    "prompt": "Lord Hanuman upper body, intense devotional expression, glowing orange eyes reflecting Ramas name, muscular physique, golden mace in background, cinematic sunset lighting, mountain peaks, realistic fur and skin texture, 8K, verti",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Lord_Hanuman_upper_body_intense_devotional_expression_glowing_orange_eyes_reflecting_Rama's_name_muscular_physique_golden_mace_in_background_cinematic_sunset_lighting_mountain_peaks_realistic_fur_and_skin_texture_8K_verti.webp"
+    "type": "image"
   },
   {
     "id": "img_245",
     "name": "Ganesha",
-    "prompt": "Lord Ganesha face close-up, trunk decorated with golden patterns, wise glowing eyes, large ornate crown with jewels, soft incense smoke swirling, warm temple lighting, ultra-realistic skin texture, 8K, vertical wallpaper, calm exp",
+    "prompt": "Lord Ganesha face closeup, trunk decorated with golden patterns, wise glowing eyes, large ornate crown with jewels, soft incense smoke swirling, warm temple lighting, ultrarealistic skin texture, 8K, vertical wallpaper, calm exp",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Lord_Ganesha_face_close-up_trunk_decorated_with_golden_patterns_wise_glowing_eyes_large_ornate_crown_with_jewels_soft_incense_smoke_swirling_warm_temple_lighting_ultra-realistic_skin_texture_8K_vertical_wallpaper_calm_exp.webp"
+    "type": "image"
   },
   {
     "id": "img_246",
     "name": "Rama",
     "prompt": "Lord Rama portrait, royal warrior stance, holding a glowing golden bow, serene but firm expression, royal blue attire with silk texture, epic forest background, divine sun rays filtering through trees, cinematic 8K, vertical wallp",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Lord_Rama_portrait_royal_warrior_stance_holding_a_glowing_golden_bow_serene_but_firm_expression_royal_blue_attire_with_silk_texture_epic_forest_background_divine_sun_rays_filtering_through_trees_cinematic_8K_vertical_wallp.webp"
+    "type": "image"
   },
   {
     "id": "img_247",
     "name": "Kali",
-    "prompt": "Goddess Kali powerful face, dark skin with realistic texture, glowing deep red eyes, tongue out, necklace of ornamental elements, dramatic background background with glowing light and embers, dramatic low-key lighting, 8K, vertica",
+    "prompt": "Goddess Kali powerful face, dark skin with realistic texture, glowing deep red eyes, tongue out, necklace of ornamental elements, dramatic background background with glowing light and embers, dramatic lowkey lighting, 8K, vertica",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Goddess_Kali_powerful_face_dark_skin_with_realistic_texture_glowing_deep_red_eyes_tongue_out_necklace_of_ornamental_elements_dramatic_background_background_with_glowing_light_and_embers_dramatic_low-key_lighting_8K_vertica.webp"
+    "type": "image"
   },
   {
     "id": "img_248",
     "name": "Vishnu",
-    "prompt": "Lord Vishnu upper body, reclining in the cosmic ocean, Sudarshana Chakra glowing on finger, blue skin with divine radiance, Sheshanaga hood as background, ethereal teal and gold lighting, ultra-realistic, 8K, vertical wallpaper, c",
+    "prompt": "Lord Vishnu upper body, reclining in the cosmic ocean, Sudarshana Chakra glowing on finger, blue skin with divine radiance, Sheshanaga hood as background, ethereal teal and gold lighting, ultrarealistic, 8K, vertical wallpaper, c",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Lord_Vishnu_upper_body_reclining_in_the_cosmic_ocean_Sudarshana_Chakra_glowing_on_finger_blue_skin_with_divine_radiance_Sheshanaga_hood_as_background_ethereal_teal_and_gold_lighting_ultra-realistic_8K_vertical_wallpaper_c.webp"
+    "type": "image"
   },
   {
     "id": "img_249",
     "name": "Lakshmi",
     "prompt": "Goddess Lakshmi face, glowing fair skin, benevolent smile, red lotus in hand, gold coins falling with realistic metallic shine, rich red and gold saree texture, warm divine glow, 8K, vertical wallpaper, calm expression, divine aur",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Goddess_Lakshmi_face_glowing_fair_skin_benevolent_smile_red_lotus_in_hand_gold_coins_falling_with_realistic_metallic_shine_rich_red_and_gold_saree_texture_warm_divine_glow_8K_vertical_wallpaper_calm_expression_divine_aur.webp"
+    "type": "image"
   },
   {
     "id": "img_250",
     "name": "Saraswati",
     "prompt": "Goddess Saraswati upper body, playing a white marble Veena, pure white silk saree texture, peaceful expression, soft moonlight glow, white swan in background, tranquil river setting, cinematic soft lighting, 8K, vertical wallpaper",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Goddess_Saraswati_upper_body_playing_a_white_marble_Veena_pure_white_silk_saree_texture_peaceful_expression_soft_moonlight_glow_white_swan_in_background_tranquil_river_setting_cinematic_soft_lighting_8K_vertical_wallpaper.webp"
+    "type": "image"
   },
   {
     "id": "img_251",
     "name": "Kartikeya",
-    "prompt": "Lord Kartikeya warrior pose, holding Vel (spear) with glowing tip, youthful powerful face, golden peacock feathers in background, stormy sky with lightning, dramatic cinematic lighting, ultra-detailed, 8K, vertical wallpaper, calm",
+    "prompt": "Lord Kartikeya warrior pose, holding Vel spear with glowing tip, youthful powerful face, golden peacock feathers in background, stormy sky with lightning, dramatic cinematic lighting, ultradetailed, 8K, vertical wallpaper, calm",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Lord_Kartikeya_warrior_pose_holding_Vel_(spear)_with_glowing_tip_youthful_powerful_face_golden_peacock_feathers_in_background_stormy_sky_with_lightning_dramatic_cinematic_lighting_ultra-detailed_8K_vertical_wallpaper_calm.webp"
+    "type": "image"
   },
   {
     "id": "img_252",
     "name": "Bhairava",
-    "prompt": "Kaal Bhairava powerful face, ornamental elements on forehead, glowing third eye, ash-smeared skin texture, black dog in background, dark tantric atmosphere, flickering torch lighting, high contrast, 8K, vertical wallpaper, calm ex",
+    "prompt": "Kaal Bhairava powerful face, ornamental elements on forehead, glowing third eye, ashsmeared skin texture, black dog in background, dark tantric atmosphere, flickering torch lighting, high contrast, 8K, vertical wallpaper, calm ex",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Kaal_Bhairava_powerful_face_ornamental_elements_on_forehead_glowing_third_eye_ash-smeared_skin_texture_black_dog_in_background_dark_tantric_atmosphere_flickering_torch_lighting_high_contrast_8K_vertical_wallpaper_calm_ex.webp"
+    "type": "image"
   },
   {
     "id": "img_253",
     "name": "Narasimha",
-    "prompt": "Lord Narasimha half-lion half-man, majestic expression with intense intense focus, glowing golden mane, sharp claws, pillar breaking in background, sparks and dust particles, epic cinematic lighting, ultra-realistic, 8K, vertical ",
+    "prompt": "Lord Narasimha halflion halfman, majestic expression with intense intense focus, glowing golden mane, sharp claws, pillar breaking in background, sparks and dust particles, epic cinematic lighting, ultrarealistic, 8K, vertical ",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Lord_Narasimha_half-lion_half-man_majestic_expression_with_intense_intense_focus_glowing_golden_mane_sharp_claws_pillar_breaking_in_background_sparks_and_dust_particles_epic_cinematic_lighting_ultra-realistic_8K_vertical.webp"
+    "type": "image"
   },
   {
     "id": "img_254",
     "name": "Parvati",
     "prompt": "Goddess Parvati as Shailputri, serene face, Himalayan snow background, traditional heavy jewelry, soft divine aura, realistic skin and fabric, peaceful devotional vibe, cinematic 8K, vertical wallpaper, calm expression, divine aur",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Goddess_Parvati_as_Shailputri_serene_face_Himalayan_snow_background_traditional_heavy_jewelry_soft_divine_aura_realistic_skin_and_fabric_peaceful_devotional_vibe_cinematic_8K_vertical_wallpaper_calm_expression_divine_aur.webp"
+    "type": "image"
   },
   {
     "id": "img_255",
     "name": "Venkateswara",
-    "prompt": "Lord Venkateswara (Tirupati Balaji) close-up, diamond crown, white tilak, dark stone texture with gold plating, countless flower garlands, temple interior with oil lamps, glowing divine presence, 8K, vertical wallpaper, calm expre",
+    "prompt": "Lord Venkateswara Tirupati Balaji closeup, diamond crown, white tilak, dark stone texture with gold plating, countless flower garlands, temple interior with oil lamps, glowing divine presence, 8K, vertical wallpaper, calm expre",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Lord_Venkateswara_(Tirupati_Balaji)_close-up_diamond_crown_white_tilak_dark_stone_texture_with_gold_plating_countless_flower_garlands_temple_interior_with_oil_lamps_glowing_divine_presence_8K_vertical_wallpaper_calm_expre.webp"
+    "type": "image"
   },
   {
     "id": "img_256",
     "name": "Jagannath",
-    "prompt": "Lord Jagannath face, large round glowing eyes, vibrant wooden texture, traditional silk decorations, chariot (Rath) background, sunlight filtering through flags, cinematic and unique artistic style, 8K, vertical wallpaper, calm ex",
+    "prompt": "Lord Jagannath face, large round glowing eyes, vibrant wooden texture, traditional silk decorations, chariot Rath background, sunlight filtering through flags, cinematic and unique artistic style, 8K, vertical wallpaper, calm ex",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Lord_Jagannath_face_large_round_glowing_eyes_vibrant_wooden_texture_traditional_silk_decorations_chariot_(Rath)_background_sunlight_filtering_through_flags_cinematic_and_unique_artistic_style_8K_vertical_wallpaper_calm_ex.webp"
+    "type": "image"
   },
   {
     "id": "img_257",
     "name": "Ayyappa",
     "prompt": "Lord Ayyappa in yoga pose, blue and gold tiger skin background, glowing forehead tilak, dark dense forest of Sabarimala, early morning mist, realistic lighting, spiritual atmosphere, 8K, vertical wallpaper, calm expression, divine",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Lord_Ayyappa_in_yoga_pose_blue_and_gold_tiger_skin_background_glowing_forehead_tilak_dark_dense_forest_of_Sabarimala_early_morning_mist_realistic_lighting_spiritual_atmosphere_8K_vertical_wallpaper_calm_expression_divine.webp"
+    "type": "image"
   },
   {
     "id": "img_258",
     "name": "Surya",
-    "prompt": "Surya Dev (Sun God) upper body, radiating intense golden light, face glowing like glowing light, holding lotuses, seven horses silhouette in background, bright orange and gold sky, cinematic glare, 8K, vertical wallpaper, calm exp",
+    "prompt": "Surya Dev Sun God upper body, radiating intense golden light, face glowing like glowing light, holding lotuses, seven horses silhouette in background, bright orange and gold sky, cinematic glare, 8K, vertical wallpaper, calm exp",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Surya_Dev_(Sun_God)_upper_body_radiating_intense_golden_light_face_glowing_like_glowing_light_holding_lotuses_seven_horses_silhouette_in_background_bright_orange_and_gold_sky_cinematic_glare_8K_vertical_wallpaper_calm_exp.webp"
+    "type": "image"
   },
   {
     "id": "img_259",
     "name": "Brahma",
     "prompt": "Lord Brahma face, white flowing beard with realistic hair texture, four heads partially visible, golden glow of creation, lotus pond background, soft ancient Vedic atmosphere, 8K, vertical wallpaper, calm expression, divine aura, ",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Lord_Brahma_face_white_flowing_beard_with_realistic_hair_texture_four_heads_partially_visible_golden_glow_of_creation_lotus_pond_background_soft_ancient_Vedic_atmosphere_8K_vertical_wallpaper_calm_expression_divine_aura.webp"
+    "type": "image"
   },
   {
     "id": "img_261",
     "name": "Dattatreya",
-    "prompt": "Lord Dattatreya face, three faces representing Trinity, glowing aura, cows and dogs in background, Audumbar tree, bright spiritual sunlight, high-quality realistic skin, 8K, vertical wallpaper, calm expression, divine aura, cinema",
+    "prompt": "Lord Dattatreya face, three faces representing Trinity, glowing aura, cows and dogs in background, Audumbar tree, bright spiritual sunlight, highquality realistic skin, 8K, vertical wallpaper, calm expression, divine aura, cinema",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Lord_Dattatreya_face_three_faces_representing_Trinity_glowing_aura_cows_and_dogs_in_background_Audumbar_tree_bright_spiritual_sunlight_high-quality_realistic_skin_8K_vertical_wallpaper_calm_expression_divine_aura_cinema.webp"
+    "type": "image"
   },
   {
     "id": "img_262",
     "name": "Shani Dev",
     "prompt": "Lord Shani Dev upper body, dark iron armor, powerful and stern face, glowing indigo eyes, sitting on a raven, dark cosmic space background with blue lightning, high contrast, 8K, vertical wallpaper, calm expression, divine aura, c",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Lord_Shani_Dev_upper_body_dark_iron_armor_powerful_and_stern_face_glowing_indigo_eyes_sitting_on_a_raven_dark_cosmic_space_background_with_blue_lightning_high_contrast_8K_vertical_wallpaper_calm_expression_divine_aura_c.webp"
+    "type": "image"
   },
   {
     "id": "img_263",
     "name": "Varaha",
-    "prompt": "Lord Varaha avatar, boar head with powerful human body, lifting Earth on tusks, water splashing, dark ocean background, divine golden light from above, cinematic 8K, vertical wallpaper, calm expression, divine aura, cinematic lighting, highly detailed",
+    "prompt": "Lord Varaha avatar, boar head with powerful human body, lifting Earth on tusks, water splashing, dark ocean background, divine golden light from above, cinematic 8K, vertical wallpaper, calm expression, divine aura, cinematic ligh",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Lord_Varaha_avatar_boar_head_with_powerful_human_body_lifting_Earth_on_tusks_water_splashing_dark_ocean_background_divine_golden_light_from_above_cinematic_8K_vertical_wallpaper_calm_expression_divine_aura_cinematic_lighting_highly_detailed.webp"
+    "type": "image"
   },
   {
     "id": "img_264",
     "name": "Bhairavi",
     "prompt": "Goddess Bhairavi face, intense spiritual power, red attire, glowing third eye, glowing light pits in background, dramatic shadows, realistic jewelry, powerful and protective energy, 8K, vertical wallpaper, calm expression, divine ",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Goddess_Bhairavi_face_intense_spiritual_power_red_attire_glowing_third_eye_glowing_light_pits_in_background_dramatic_shadows_realistic_jewelry_powerful_and_protective_energy_8K_vertical_wallpaper_calm_expression_divine.webp"
+    "type": "image"
   },
   {
     "id": "img_265",
     "name": "Kuber",
-    "prompt": "Lord Kuber face, wealthy appearance, holding a mongoose-shaped money bag, gold coins and gems glowing in background, rich temple treasury lighting, ultra-realistic, 8K, vertical wallpaper, calm expression, divine aura, cinematic l",
+    "prompt": "Lord Kuber face, wealthy appearance, holding a mongooseshaped money bag, gold coins and gems glowing in background, rich temple treasury lighting, ultrarealistic, 8K, vertical wallpaper, calm expression, divine aura, cinematic l",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Lord_Kuber_face_wealthy_appearance_holding_a_mongoose-shaped_money_bag_gold_coins_and_gems_glowing_in_background_rich_temple_treasury_lighting_ultra-realistic_8K_vertical_wallpaper_calm_expression_divine_aura_cinematic_l.webp"
+    "type": "image"
   },
   {
     "id": "img_266",
     "name": "Indra",
-    "prompt": "Lord Indra riding Airavata elephant, holding Vajra (lightning bolt) glowing with blue energy, king of gods attire, stormy clouds, cinematic lightning, high-end photography style, 8K, vertical wallpaper, calm expression, divine aur",
+    "prompt": "Lord Indra riding Airavata elephant, holding Vajra lightning bolt glowing with blue energy, king of gods attire, stormy clouds, cinematic lightning, highend photography style, 8K, vertical wallpaper, calm expression, divine aur",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Lord_Indra_riding_Airavata_elephant_holding_Vajra_(lightning_bolt)_glowing_with_blue_energy_king_of_gods_attire_stormy_clouds_cinematic_lightning_high-end_photography_style_8K_vertical_wallpaper_calm_expression_divine_aur.webp"
+    "type": "image"
   },
   {
     "id": "img_267",
     "name": "Nandi",
-    "prompt": "Nandi (Divine Bull) close-up, decorated with bells and gold, wise eyes, sitting at temple entrance, Shiva Lingam in blurred background, soft natural sunlight, realistic fur texture, 8K, vertical wallpaper, calm expression, divine ",
+    "prompt": "Nandi Divine Bull closeup, decorated with bells and gold, wise eyes, sitting at temple entrance, Shiva Lingam in blurred background, soft natural sunlight, realistic fur texture, 8K, vertical wallpaper, calm expression, divine ",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Nandi_(Divine_Bull)_close-up_decorated_with_bells_and_gold_wise_eyes_sitting_at_temple_entrance_Shiva_Lingam_in_blurred_background_soft_natural_sunlight_realistic_fur_texture_8K_vertical_wallpaper_calm_expression_divine.webp"
+    "type": "image"
   },
   {
     "id": "img_268",
     "name": "Radha",
-    "prompt": "Radha Rani face, supreme beauty, glowing skin, wearing floral jewelry, deep devotional eyes, Vrindavan garden with soft bokeh, ethereal morning light, cinematic, 8K, vertical wallpaper, calm expression, divine aura, cinematic lighting, highly detailed",
+    "prompt": "Radha Rani face, supreme beauty, glowing skin, wearing floral jewelry, deep devotional eyes, Vrindavan garden with soft bokeh, ethereal morning light, cinematic, 8K, vertical wallpaper, calm expression, divine aura, cinematic ligh",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Radha_Rani_face_supreme_beauty_glowing_skin_wearing_floral_jewelry_deep_devotional_eyes_Vrindavan_garden_with_soft_bokeh_ethereal_morning_light_cinematic_8K_vertical_wallpaper_calm_expression_divine_aura_cinematic_lighting_highly_detailed.webp"
+    "type": "image"
   },
   {
     "id": "img_269",
     "name": "Matsya",
-    "prompt": "Lord Matsya avatar, human torso emerging from a massive realistic fish, golden skin, stormy sea, boat with Saptarishi in background, dramatic waves, cinematic 8K, vertical wallpaper, calm expression, divine aura, cinematic lighting, highly detailed",
+    "prompt": "Lord Matsya avatar, human torso emerging from a massive realistic fish, golden skin, stormy sea, boat with Saptarishi in background, dramatic waves, cinematic 8K, vertical wallpaper, calm expression, divine aura, cinematic lightin",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Lord_Matsya_avatar_human_torso_emerging_from_a_massive_realistic_fish_golden_skin_stormy_sea_boat_with_Saptarishi_in_background_dramatic_waves_cinematic_8K_vertical_wallpaper_calm_expression_divine_aura_cinematic_lighting_highly_detailed.webp"
+    "type": "image"
   },
   {
     "id": "img_270",
     "name": "Vamana",
-    "prompt": "Lord Vamana as a young Brahmin boy, holding a wooden umbrella, glowing aura, cosmic foot expanding in sky, epic scale, soft divine lighting, realistic textures, 8K, vertical wallpaper, calm expression, divine aura, cinematic lighting, highly detailed",
+    "prompt": "Lord Vamana as a young Brahmin boy, holding a wooden umbrella, glowing aura, cosmic foot expanding in sky, epic scale, soft divine lighting, realistic textures, 8K, vertical wallpaper, calm expression, divine aura, cinematic light",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Lord_Vamana_as_a_young_Brahmin_boy_holding_a_wooden_umbrella_glowing_aura_cosmic_foot_expanding_in_sky_epic_scale_soft_divine_lighting_realistic_textures_8K_vertical_wallpaper_calm_expression_divine_aura_cinematic_lighting_highly_detailed.webp"
+    "type": "image"
   },
   {
     "id": "img_271",
     "name": "Parashurama",
-    "prompt": "Lord Parashurama face, powerful warrior brahmin, glowing axe (Farsha), angry but disciplined expression, forest background, realistic skin and hair, high contrast cinematic lighting, 8K, vertical wallpaper, calm expression, divine",
+    "prompt": "Lord Parashurama face, powerful warrior brahmin, glowing axe Farsha, angry but disciplined expression, forest background, realistic skin and hair, high contrast cinematic lighting, 8K, vertical wallpaper, calm expression, divine",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Lord_Parashurama_face_powerful_warrior_brahmin_glowing_axe_(Farsha)_angry_but_disciplined_expression_forest_background_realistic_skin_and_hair_high_contrast_cinematic_lighting_8K_vertical_wallpaper_calm_expression_divine.webp"
+    "type": "image"
   },
   {
     "id": "img_272",
     "name": "Kurma",
-    "prompt": "Lord Kurma avatar, giant turtle in cosmic ocean, mountain Mandara on back, churning of ocean (Samudra Manthan) energy in background, realistic scales and water, 8K, vertical wallpaper, calm expression, divine aura, cinematic lighting, highly detailed",
+    "prompt": "Lord Kurma avatar, giant turtle in cosmic ocean, mountain Mandara on back, churning of ocean Samudra Manthan energy in background, realistic scales and water, 8K, vertical wallpaper, calm expression, divine aura, cinematic lightin",
     "category": "Hindu",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Lord_Kurma_avatar_giant_turtle_in_cosmic_ocean_mountain_Mandara_on_back_churning_of_ocean_(Samudra_Manthan)_energy_in_background_realistic_scales_and_water_8K_vertical_wallpaper_calm_expression_divine_aura_cinematic_lighting_highly_detailed.webp"
+    "type": "image"
   },
   {
     "id": "img_274",
     "name": "Diwali",
-    "prompt": "Ultra-realistic close-up of a person's hands placing a clay Diya, warm glowing flame reflecting on skin, hundreds of blurred oil lamps in background, cinematic bokeh, floating golden sparkles, nighttime temple stairs, spiritual an",
+    "prompt": "Ultrarealistic closeup of a persons hands placing a clay Diya, warm glowing flame reflecting on skin, hundreds of blurred oil lamps in background, cinematic bokeh, floating golden sparkles, nighttime temple stairs, spiritual an",
     "category": "Festival",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Ultra-realistic_close-up_of_a_person's_hands_placing_a_clay_Diya_warm_glowing_flame_reflecting_on_skin_hundreds_of_blurred_oil_lamps_in_background_cinematic_bokeh_floating_golden_sparkles_nighttime_temple_stairs_spiritual_an.webp"
+    "type": "image"
   },
   {
     "id": "img_275",
     "name": "Holi",
     "prompt": "Cinematic shot of Lord Krishna playing Holi, face covered in vibrant organic gulal powder, burst of colors in the air, sunlight hitting dust particles, realistic skin pores and wet hair, joyful divine expression, 8K, vertical wall",
     "category": "Festival",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Cinematic_shot_of_Lord_Krishna_playing_Holi_face_covered_in_vibrant_organic_gulal_powder_burst_of_colors_in_the_air_sunlight_hitting_dust_particles_realistic_skin_pores_and_wet_hair_joyful_divine_expression_8K_vertical_wall.webp"
+    "type": "image"
   },
   {
     "id": "img_276",
     "name": "Maha Shivratri",
     "prompt": "Lord Shiva meditating in a dark cave, illuminated by a single beam of light, milk being poured over a stone Lingam in foreground, realistic water ripples, smoke from incense sticks, deep blue and gold tones, 8K, vertical wallpaper",
     "category": "Festival",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Lord_Shiva_meditating_in_a_dark_cave_illuminated_by_a_single_beam_of_light_milk_being_poured_over_a_stone_Lingam_in_foreground_realistic_water_ripples_smoke_from_incense_sticks_deep_blue_and_gold_tones_8K_vertical_wallpaper.webp"
+    "type": "image"
   },
   {
     "id": "img_277",
     "name": "Ganesh Chaturthi",
-    "prompt": "Massive realistic Ganesha idol during Visarjan, sunset at the beach, orange sky, thousands of devotees in soft focus, red gulal powder clouds, cinematic lighting hitting the idol\u2019s golden crown, 8K, vertical wallpaper, calm atmosp",
+    "prompt": "Massive realistic Ganesha idol during Visarjan, sunset at the beach, orange sky, thousands of devotees in soft focus, red gulal powder clouds, cinematic lighting hitting the idols golden crown, 8K, vertical wallpaper, calm atmosp",
     "category": "Festival",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Massive_realistic_Ganesha_idol_during_Visarjan_sunset_at_the_beach_orange_sky_thousands_of_devotees_in_soft_focus_red_gulal_powder_clouds_cinematic_lighting_hitting_the_idol\u2019s_golden_crown_8K_vertical_wallpaper_calm_atmosp.webp"
+    "type": "image"
   },
   {
     "id": "img_278",
     "name": "Janmashtami",
-    "prompt": "Baby Krishna (Ladoo Gopal) reaching for a realistic clay pot of butter, golden sunlight filtering through a window, peacock feathers in background, soft dust motes, innocent and divine expression, 8K, vertical wallpaper, calm atmo",
+    "prompt": "Baby Krishna Ladoo Gopal reaching for a realistic clay pot of butter, golden sunlight filtering through a window, peacock feathers in background, soft dust motes, innocent and divine expression, 8K, vertical wallpaper, calm atmo",
     "category": "Festival",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Baby_Krishna_(Ladoo_Gopal)_reaching_for_a_realistic_clay_pot_of_butter_golden_sunlight_filtering_through_a_window_peacock_feathers_in_background_soft_dust_motes_innocent_and_divine_expression_8K_vertical_wallpaper_calm_atmo.webp"
+    "type": "image"
   },
   {
     "id": "img_279",
     "name": "Navratri",
     "prompt": "A woman performing Garba dance, vibrant traditional lehenga with mirrors reflecting light, motion blur of fabric, Goddess Durga idol in the background with a glowing aura, festive night lighting, 8K, vertical wallpaper, calm atmos",
     "category": "Festival",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/A_woman_performing_Garba_dance_vibrant_traditional_lehenga_with_mirrors_reflecting_light_motion_blur_of_fabric_Goddess_Durga_idol_in_the_background_with_a_glowing_aura_festive_night_lighting_8K_vertical_wallpaper_calm_atmos.webp"
+    "type": "image"
   },
   {
     "id": "img_280",
     "name": "Raksha Bandhan",
-    "prompt": "Extreme close-up of a beautifully handcrafted Rakhi tied on a wrist, realistic silken threads and beads, soft warm focus on a sister\u2019s hand, blurred home interior with festive sweets, emotional and devotional vibe, 8K, vertical wa",
+    "prompt": "Extreme closeup of a beautifully handcrafted Rakhi tied on a wrist, realistic silken threads and beads, soft warm focus on a sisters hand, blurred home interior with festive sweets, emotional and devotional vibe, 8K, vertical wa",
     "category": "Festival",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Extreme_close-up_of_a_beautifully_handcrafted_Rakhi_tied_on_a_wrist_realistic_silken_threads_and_beads_soft_warm_focus_on_a_sister\u2019s_hand_blurred_home_interior_with_festive_sweets_emotional_and_devotional_vibe_8K_vertical_wa.webp"
+    "type": "image"
   },
   {
     "id": "img_281",
     "name": "Ram Navami",
-    "prompt": "Epic shot of Lord Rama\u2019s chariot passing through a crowd, flower petals falling from the sky in slow motion, saffron flags waving, sunlight creating a lens flare, cinematic historical movie aesthetic, 8K, vertical wallpaper, calm ",
+    "prompt": "Epic shot of Lord Ramas chariot passing through a crowd, flower petals falling from the sky in slow motion, saffron flags waving, sunlight creating a lens flare, cinematic historical movie aesthetic, 8K, vertical wallpaper, calm ",
     "category": "Festival",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Epic_shot_of_Lord_Rama\u2019s_chariot_passing_through_a_crowd_flower_petals_falling_from_the_sky_in_slow_motion_saffron_flags_waving_sunlight_creating_a_lens_flare_cinematic_historical_movie_aesthetic_8K_vertical_wallpaper_calm.webp"
+    "type": "image"
   },
   {
     "id": "img_282",
     "name": "Dussehra",
-    "prompt": "Dramatic silhouette of a giant Ravan effigy glowing, realistic warm light embers flying into the night sky sky, Lord Rama\u2019s glowing arrow in mid-air, high contrast, sparks and smoke, 8K, vertical wallpaper, calm atmosphere, divine",
+    "prompt": "Dramatic silhouette of a giant Ravan effigy glowing, realistic warm light embers flying into the night sky sky, Lord Ramas glowing arrow in midair, high contrast, sparks and smoke, 8K, vertical wallpaper, calm atmosphere, divine",
     "category": "Festival",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Dramatic_silhouette_of_a_giant_Ravan_effigy_glowing_realistic_warm_light_embers_flying_into_the_night_sky_sky_Lord_Rama\u2019s_glowing_arrow_in_mid-air_high_contrast_sparks_and_smoke_8K_vertical_wallpaper_calm_atmosphere_divine.webp"
+    "type": "image"
   },
   {
     "id": "img_283",
     "name": "Kumbh Mela",
-    "prompt": "A Naga Sadhu meditating by the Ganges, ash-smeared skin with realistic texture, orange marigold garlands, misty morning river background, soft sunlight piercing through fog, cinematic documentary style, 8K, vertical wallpaper, cal",
+    "prompt": "A Naga Sadhu meditating by the Ganges, ashsmeared skin with realistic texture, orange marigold garlands, misty morning river background, soft sunlight piercing through fog, cinematic documentary style, 8K, vertical wallpaper, cal",
     "category": "Festival",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/A_Naga_Sadhu_meditating_by_the_Ganges_ash-smeared_skin_with_realistic_texture_orange_marigold_garlands_misty_morning_river_background_soft_sunlight_piercing_through_fog_cinematic_documentary_style_8K_vertical_wallpaper_cal.webp"
+    "type": "image"
   },
   {
     "id": "img_284",
     "name": "Pongal / Makar Sankranti",
     "prompt": "A decorated cow with painted horns, vibrant yellow marigolds, a clay pot overflowing with rice on a traditional warm light, green sugarcane sticks in background, bright rural morning light, 8K, vertical wallpaper, calm atmosphere,",
     "category": "Festival",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/A_decorated_cow_with_painted_horns_vibrant_yellow_marigolds_a_clay_pot_overflowing_with_rice_on_a_traditional_warm_light_green_sugarcane_sticks_in_background_bright_rural_morning_light_8K_vertical_wallpaper_calm_atmosphere.webp"
+    "type": "image"
   },
   {
     "id": "img_285",
     "name": "Durga Puja",
-    "prompt": "The eyes of Goddess Durga being painted by an artist (Chakshudaan), extreme close-up, realistic paint brush and wet kohl texture, dim yellow lamp lighting, focused and divine gaze, 8K, vertical wallpaper, calm atmosphere, divine p",
+    "prompt": "The eyes of Goddess Durga being painted by an artist Chakshudaan, extreme closeup, realistic paint brush and wet kohl texture, dim yellow lamp lighting, focused and divine gaze, 8K, vertical wallpaper, calm atmosphere, divine p",
     "category": "Festival",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/The_eyes_of_Goddess_Durga_being_painted_by_an_artist_(Chakshudaan)_extreme_close-up_realistic_paint_brush_and_wet_kohl_texture_dim_yellow_lamp_lighting_focused_and_divine_gaze_8K_vertical_wallpaper_calm_atmosphere_divine_p.webp"
+    "type": "image"
   },
   {
     "id": "img_286",
     "name": "Hanuman Janmotsav",
-    "prompt": "Lord Hanuman\u2019s face glowing with orange vermilion (Sindoor), focused eyes, temple bells in background, rays of light hitting the smoke of a havan (holy warm light), powerful and gritty realistic texture, 8K, vertical wallpaper, ca",
+    "prompt": "Lord Hanumans face glowing with orange vermilion Sindoor, focused eyes, temple bells in background, rays of light hitting the smoke of a havan holy warm light, powerful and gritty realistic texture, 8K, vertical wallpaper, ca",
     "category": "Festival",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Lord_Hanuman\u2019s_face_glowing_with_orange_vermilion_(Sindoor)_focused_eyes_temple_bells_in_background_rays_of_light_hitting_the_smoke_of_a_havan_(holy_warm_light)_powerful_and_gritty_realistic_texture_8K_vertical_wallpaper_ca.webp"
+    "type": "image"
   },
   {
     "id": "img_287",
     "name": "Karwa Chauth",
     "prompt": "A woman looking at the moon through a sieve, realistic moonlight reflecting in water, traditional jewelry sparkling, dark starry night sky, soft cinematic focus on the sieve, romantic and devotional, 8K, vertical wallpaper, calm a",
     "category": "Festival",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/A_woman_looking_at_the_moon_through_a_sieve_realistic_moonlight_reflecting_in_water_traditional_jewelry_sparkling_dark_starry_night_sky_soft_cinematic_focus_on_the_sieve_romantic_and_devotional_8K_vertical_wallpaper_calm_a.webp"
+    "type": "image"
   },
   {
     "id": "img_288",
     "name": "Chhath Puja",
-    "prompt": "Devotees standing in a river during sunrise, holding a bamboo basket of fruits (Soop), realistic water reflections of the orange sun, morning mist, spiritual and calm atmosphere, 8K, vertical wallpaper, calm atmosphere, divine pea",
+    "prompt": "Devotees standing in a river during sunrise, holding a bamboo basket of fruits Soop, realistic water reflections of the orange sun, morning mist, spiritual and calm atmosphere, 8K, vertical wallpaper, calm atmosphere, divine pea",
     "category": "Festival",
-    "type": "image",
-    "image_url": "https://raw.githubusercontent.com/nik007frontbit/god_status_gallary_images/refs/heads/main/Devotees_standing_in_a_river_during_sunrise_holding_a_bamboo_basket_of_fruits_(Soop)_realistic_water_reflections_of_the_orange_sun_morning_mist_spiritual_and_calm_atmosphere_8K_vertical_wallpaper_calm_atmosphere_divine_pea.webp"
+    "type": "image"
   }
 ]
