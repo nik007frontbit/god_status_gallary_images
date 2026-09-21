@@ -1057,13 +1057,6 @@
     "type": "image"
   },
   {
-    "id": "img_152",
-    "name": "Poseidon",
-    "prompt": "Closeup, Poseidons face, wet hair and beard, intense seagreen eyes, mysterious and powerful, ocean background, vertical wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
-    "category": "Greek",
-    "type": "image"
-  },
-  {
     "id": "img_153",
     "name": "Hades",
     "prompt": "Hades in the , dark and moody cinematic lighting, shadow aura, glowing eyes, holding a realistic key, gloomy and intense atmosphere, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
@@ -1169,23 +1162,9 @@
     "type": "image"
   },
   {
-    "id": "img_168",
-    "name": "Thor",
-    "prompt": "Portrait, Thors face, determined expression, realistic skin texture, soft blue and gold backlighting, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
-    "category": "Norse",
-    "type": "image"
-  },
-  {
     "id": "img_169",
     "name": "Loki",
     "prompt": "Loki trickster god, with realistic illusion magic, green aura, dark and intense cinematic lighting, cunning expression, dramatic background, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
-    "category": "Norse",
-    "type": "image"
-  },
-  {
-    "id": "img_170",
-    "name": "Loki",
-    "prompt": "Portrait, Lokis face, cunning smile, realistic skin texture, soft green and black color palette, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Norse",
     "type": "image"
   },
@@ -1358,23 +1337,9 @@
     "type": "image"
   },
   {
-    "id": "img_195",
-    "name": "Quetzalcoatl",
-    "prompt": "Feathered serpent god, with realistic vibrant colors, mystical aura, dynamic pose, blurred wind effects, cinematic lighting, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
-    "category": "Aztec",
-    "type": "image"
-  },
-  {
     "id": "img_196",
     "name": "Quetzalcoatl",
     "prompt": "Quetzalcoatls face, feathered serpent head, radiating intense golden light, determined expression, vertical wallpaper format, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
-    "category": "Aztec",
-    "type": "image"
-  },
-  {
-    "id": "img_197",
-    "name": "Tezcatlipoca",
-    "prompt": "Tezcatlipoca night god, , glowing symbols, holding realistic staff, dark and intense cinematic lighting, mysterious background, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Aztec",
     "type": "image"
   },
@@ -1396,13 +1361,6 @@
     "id": "img_200",
     "name": "Inti",
     "prompt": "Intis face, radiating intense golden light, smiling and charming, sunrise background, bright and powerful, vertical wallpaper format, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
-    "category": "Inca",
-    "type": "image"
-  },
-  {
-    "id": "img_201",
-    "name": "Viracocha",
-    "prompt": "Viracocha creator god, with realistic cosmic energy, glowing aura, divine light, epic and powerful cinematic lighting, dramatic background, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Inca",
     "type": "image"
   },
@@ -1456,23 +1414,9 @@
     "type": "image"
   },
   {
-    "id": "img_209",
-    "name": "Nyx",
-    "prompt": "Nyx goddess of night, with realistic dark sky aura, stars glowing, soft and powerful cinematic lighting, peaceful background, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
-    "category": "Concept God",
-    "type": "image"
-  },
-  {
     "id": "img_210",
     "name": "Nyx",
     "prompt": "Nyxs face, radiating soft white light, crescent moon in the background, serene and smiling, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
-    "category": "Concept God",
-    "type": "image"
-  },
-  {
-    "id": "img_211",
-    "name": "Erebus",
-    "prompt": "Erebus darkness deity, shadow aura, realistic deep void background, cinematic lighting, dramatic atmosphere, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Concept God",
     "type": "image"
   },
@@ -1526,27 +1470,6 @@
     "type": "image"
   },
   {
-    "id": "img_219",
-    "name": "Set",
-    "prompt": "Set chaos god, desert storm, , intense cinematic lighting, dramatic atmosphere, holding realistic staff, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
-    "category": "Egyptian",
-    "type": "image"
-  },
-  {
-    "id": "img_220",
-    "name": "Set",
-    "prompt": "Sets face, determined expression, intricate helmet, soft blue and black color palette, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
-    "category": "Egyptian",
-    "type": "image"
-  },
-  {
-    "id": "img_221",
-    "name": "Sekhmet",
-    "prompt": "Sekhmet lion goddess, fire aura, glowing eyes, intense power, dramatic fire lighting, cinematic lighting, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
-    "category": "Egyptian",
-    "type": "image"
-  },
-  {
     "id": "img_222",
     "name": "Sekhmet",
     "prompt": "Sekhmets face, lion head, eyes glowing with fire, intense expression, dark and smoky background, high contrast, vertical wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
@@ -1582,23 +1505,9 @@
     "type": "image"
   },
   {
-    "id": "img_227",
-    "name": "Bagalamukhi",
-    "prompt": "Bagalamukhi golden aura, mystical power, divine glow, beautiful and elegant, cinematic lighting, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
-    "category": "Hindu",
-    "type": "image"
-  },
-  {
     "id": "img_228",
     "name": "Bagalamukhi",
     "prompt": "Bagalamukhis face, radiating intense golden light, determined expression, intricate crown, bright and powerful, vertical wallpaper format, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
-    "category": "Hindu",
-    "type": "image"
-  },
-  {
-    "id": "img_229",
-    "name": "Dhumavati",
-    "prompt": "Dhumavati dark goddess, void aura, eerie atmosphere, realistic deep void background, cinematic lighting, dramatic atmosphere, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
     "type": "image"
   },
@@ -1620,27 +1529,6 @@
     "id": "img_232",
     "name": "Ayyappa",
     "prompt": "Portrait, Ayyappas face, radiating intense golden light, determined expression, intricate crown, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
-    "category": "Hindu",
-    "type": "image"
-  },
-  {
-    "id": "img_233",
-    "name": "Dattatreya",
-    "prompt": "Dattatreya with three heads, divine aura, realistic spiritual background, cinematic lighting, detailed background, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
-    "category": "Hindu",
-    "type": "image"
-  },
-  {
-    "id": "img_234",
-    "name": "Dattatreya",
-    "prompt": "Portrait, Dattatreyas face, three heads, determined expression, intricate helmet, soft blue and black color palette, phone wallpaper, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
-    "category": "Hindu",
-    "type": "image"
-  },
-  {
-    "id": "img_235",
-    "name": "Ashwini Kumaras",
-    "prompt": "Twin gods glowing aura, with realistic divine healing energy, beautiful and elegant, celestial background, cinematic lighting, calm expression, peaceful divine aura, cinematic lighting, highly detailed, 4K",
     "category": "Hindu",
     "type": "image"
   },
